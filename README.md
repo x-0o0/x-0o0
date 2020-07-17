@@ -1,16 +1,21 @@
-<div align="center">
-  <h3>방가방가 ㅎㅇㅎㅇ ㅎ2ㅎ2 👋</h3>
-  <i><b>⚠️와닝</b> 번역 잘 안됨. The translation result will be strange, 10q, ㅂ2.</i>
-  <p>민족건대 막강전기 재학중이고 실리콘밸리를 날으는 새 <b>Sendbird</b> 에서 iOS개발을 하고 있어.</p>
-  <p>2019년  WWDC19 장학생, 2020년  WWDC20 Swift Student Challenge 우승자야.</p>
-  <p>취미는 베짱이처럼 기타줄 튕기기</p>
-  <p>그럼 20000</p>
-</div>
+# Hi, I'm Jaesung 👋
 
-*****
+I'm working at [Sendbird](https://sendbird.com) as an iOS developer.
 
-### 할 줄 아는 거
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
+### Education
+![univ](https://img.shields.io/badge/Konkuk_univ.-Electrical_Engineering_(current)-036b40?style=for-the-badge)
 
-### 소스참고
-[Mininny 의 리드미월드](https://github.com/mininny/mininny)
+### Interests
+![iOS development](https://img.shields.io/badge/iOS_Development-999999?style=for-the-badge&logo=apple&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-fa7343?style=for-the-badge&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/Swiftui-blue?style=for-the-badge&logo=swift&logoColor=white)
+![SendbirdCalls](https://img.shields.io/badge/Sendbird_calls-825eeb?style=for-the-badge)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
+
+### Activity
+![wwdc19](https://img.shields.io/badge/WWDC19-Scholarship_Winner-999999?style=for-the-badge&logo=apple&logoColor=white)
+![wwdc20](https://img.shields.io/badge/WWDC20-Swift_Student_Challenge_Winner-999999?style=for-the-badge&logo=apple&logoColor=white)
+
+### Contacts
+[![Instagram](https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/j_sung_0o0/)
+[![Email](https://img.shields.io/badge/Email-168de2?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:chic0815@icloud.com)
