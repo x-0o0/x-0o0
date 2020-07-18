@@ -15,6 +15,7 @@ I'm working at [Sendbird](https://sendbird.com) as an iOS developer.
 [![Nflx](https://img.shields.io/badge/Watching_Netflix-e50914?style=for-the-badge&logo=netflix&logoColor=white)](https://netflix.com)
 [![Youtube](https://img.shields.io/badge/Watching_Youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com)
 ![Tesla](https://img.shields.io/badge/Tesla_떡상가즈아-cc0000?style=for-the-badge&logo=tesla&logoColor=white)
+![SpaceX](https://img.shields.io/badge/SpaceX-000000?style=for-the-badge&logo=spacex&logoColor=white)
 
 ### Activities
 ![wwdc19](https://img.shields.io/badge/WWDC19-Scholarship_Winner-999999?style=for-the-badge&logo=apple&logoColor=white)
