@@ -12,7 +12,7 @@ I'm working at [Sendbird](https://sendbird.com) as an iOS developer.
 ![SendbirdCalls](https://img.shields.io/badge/Sendbird_calls-825eeb?style=for-the-badge)
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
 
-### Activity
+### Activities
 ![wwdc19](https://img.shields.io/badge/WWDC19-Scholarship_Winner-999999?style=for-the-badge&logo=apple&logoColor=white)
 ![wwdc20](https://img.shields.io/badge/WWDC20-Swift_Student_Challenge_Winner-999999?style=for-the-badge&logo=apple&logoColor=white)
 
