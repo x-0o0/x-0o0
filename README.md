@@ -11,6 +11,10 @@ I'm working at [Sendbird](https://sendbird.com) as an iOS developer.
 ![SwiftUI](https://img.shields.io/badge/Swiftui-blue?style=for-the-badge&logo=swift&logoColor=white)
 ![SendbirdCalls](https://img.shields.io/badge/Sendbird_calls-825eeb?style=for-the-badge)
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
+![Music](https://img.shields.io/badge/Listening_to_Music-fd5260?style=for-the-badge&logo=apple-music&logoColor=white)
+![Nflx](https://img.shields.io/badge/Watching_Netflix-e50914?style=for-the-badge&logo=netflix&logoColor=white)
+![Youtube](https://img.shields.io/badge/Watching_Youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white)
+![Tesla](https://img.shields.io/badge/Tesla_떡상가즈아-cc0000?style=for-the-badge&logo=tesla&logoColor=white)
 
 ### Activities
 ![wwdc19](https://img.shields.io/badge/WWDC19-Scholarship_Winner-999999?style=for-the-badge&logo=apple&logoColor=white)
