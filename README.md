@@ -6,8 +6,8 @@ I'm working at [Sendbird](https://sendbird.com) as an iOS developer.
 ![univ](https://img.shields.io/badge/Konkuk_univ.-Electrical_Engineering_(current)-036b40?style=for-the-badge)
 
 ### Activities
-![wwdc19](https://img.shields.io/badge/WWDC19-Scholarship_Winner-999999?style=for-the-badge&logo=apple&logoColor=white)
-![wwdc20](https://img.shields.io/badge/WWDC20-Swift_Student_Challenge_Winner-999999?style=for-the-badge&logo=apple&logoColor=white)
+[![wwdc19](https://img.shields.io/badge/WWDC19-Scholarship_Winner-999999?style=for-the-badge&logo=apple&logoColor=white)](https://blog.naver.com/dreamkonkuk/221537896778)
+[![wwdc20](https://img.shields.io/badge/WWDC20-Swift_Student_Challenge_Winner-999999?style=for-the-badge&logo=apple&logoColor=white)](http://www.konkuk.ac.kr/Administration/Pub/jsp/New/ku_pe_02_01.jsp?forum=people&id=5b3f1eb)
 
 ### Contacts
 [![Instagram](https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/j_sung_0o0/)
