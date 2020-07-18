@@ -14,13 +14,13 @@ I'm working at [Sendbird](https://sendbird.com) as an iOS developer.
 [![Email](https://img.shields.io/badge/Email-168de2?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:chic0815@icloud.com)
 
 ### Interests
-![iOS development](https://img.shields.io/badge/iOS_Development-999999?style=for-the-badge&logo=apple&logoColor=white)
+[![iOS development](https://img.shields.io/badge/iOS_Development-999999?style=for-the-badge&logo=apple&logoColor=white)](https://developer.apple.com)
 ![Swift](https://img.shields.io/badge/Swift-fa7343?style=for-the-badge&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/Swiftui-blue?style=for-the-badge&logo=swift&logoColor=white)
-![SendbirdCalls](https://img.shields.io/badge/Sendbird_calls-825eeb?style=for-the-badge)
+[![SwiftUI](https://img.shields.io/badge/Swiftui-blue?style=for-the-badge&logo=swift&logoColor=white)](https://github.com/Swift-at-Night/ElViewKit)
+[![SendbirdCalls](https://img.shields.io/badge/Sendbird_calls-825eeb?style=for-the-badge)](https://sendbird.com/features/voice-and-video)
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
 ![Music](https://img.shields.io/badge/Listening_to_Music-fd5260?style=for-the-badge&logo=apple-music&logoColor=white)
 [![Nflx](https://img.shields.io/badge/Watching_Netflix-e50914?style=for-the-badge&logo=netflix&logoColor=white)](https://netflix.com)
 [![Youtube](https://img.shields.io/badge/Watching_Youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com)
-![Tesla](https://img.shields.io/badge/Tesla_떡상가즈아-cc0000?style=for-the-badge&logo=tesla&logoColor=white)
+[![Tesla](https://img.shields.io/badge/Tesla_떡상가즈아-cc0000?style=for-the-badge&logo=tesla&logoColor=white)](https://www.tesla.com/modelx)
 ![SpaceX](https://img.shields.io/badge/SpaceX-000000?style=for-the-badge&logo=spacex&logoColor=white)
