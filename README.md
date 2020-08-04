@@ -30,19 +30,3 @@ I'm working at [Sendbird](https://sendbird.com) as an iOS developer.
 Ref. https://github.com/anuraghazra/github-readme-stats
 
 ![재성이의 깃헙 상태](https://github-readme-stats.vercel.app/api?username=jaesung-0o0&show_icons=true&theme=tokyonight)
-
-<a href="https://github.com/Swift-at-Night/ElViewKit">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Swift-at-Night&repo=ElViewKit" />
-</a>
-<a href="https://github.com/jaesung-0o0/Beginning-CallKit-SwiftUI">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=jaesung-0o0&repo=Beginning-CallKit-SwiftUI" />
-</a>
-
-<a href="https://github.com/sendbird/sendbird-calls-ios">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sendbird&repo=sendbird-calls-ios" />
-</a>
-<a href="https://github.com/sendbird/quickstart-calls-ios">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sendbird&repo=quickstart-calls-ios" />
-</a>
-
-
