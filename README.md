@@ -30,3 +30,5 @@ I'm working at [Sendbird](https://sendbird.com) as an iOS developer.
 Ref. https://github.com/anuraghazra/github-readme-stats
 
 ![재성이의 깃헙 상태](https://github-readme-stats.vercel.app/api?username=jaesung-0o0&show_icons=true&theme=tokyonight)
+
+[![재성이의 언어 사용량](https://github-readme-stats.vercel.app/api/top-langs/?username=jaesung-0o0)](https://github.com/jaesung-0o0/github-readme-stats)
