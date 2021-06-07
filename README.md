@@ -1,4 +1,4 @@
-# Hi, I'm Jaesung 👋
+# What's good! I'm Jaesung Lee 👋
 
 I'm working at [Sendbird](https://sendbird.com) as an iOS developer.
 
