@@ -3,7 +3,7 @@
 ### I'm a...
 Software engineer
 UIKit(Client iOS)
-[Sendbird](sendbird.com)
+[Sendbird](https://github.com/sendbird)
 
 ### 🎓 Education
 ![univ](https://img.shields.io/badge/Konkuk_univ.-Electrical_Engineering_(current)-036b40?style=for-the-badge)
