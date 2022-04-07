@@ -1,9 +1,9 @@
 # What's good! I'm Jaesung Lee 👋
 
 ### I'm a...
-Software engineer
-UIKit(Client iOS)
-[Sendbird](https://github.com/sendbird)
+Nerd😜
+
+![sendbird](https://img.shields.io/badge/Software_engineer_(Client_iOS)-Sendbird,_Inc.-825eeb?style=for-the-badge)
 
 ### 🎓 Education
 ![univ](https://img.shields.io/badge/Konkuk_univ.-Electrical_Engineering-036b40?style=for-the-badge)
