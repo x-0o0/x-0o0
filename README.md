@@ -1,7 +1,6 @@
 # What's good! I'm Jaesung Lee 👋
 
 ### I'm a...
-Nerd😜
 
 ![sendbird](https://img.shields.io/badge/Software_engineer_(Client_iOS)-Sendbird,_Inc.-825eeb?style=for-the-badge)
 
@@ -20,9 +19,13 @@ Nerd😜
 [![iOS development](https://img.shields.io/badge/iOS_Development-999999?style=for-the-badge&logo=apple&logoColor=white)](https://developer.apple.com)
 ![Swift](https://img.shields.io/badge/Swift-fa7343?style=for-the-badge&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/Swiftui-blue?style=for-the-badge&logo=swift&logoColor=white)
+
 [![SendbirdCalls](https://img.shields.io/badge/Sendbird_calls-825eeb?style=for-the-badge)](https://sendbird.com/features/voice-and-video)
 [![SendbirdUIKit](https://img.shields.io/badge/Sendbird_UIKit-825eeb?style=for-the-badge)](https://sendbird.com/features/chat-messaging/uikit)
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
-![Music](https://img.shields.io/badge/Listening_to_Music-fd5260?style=for-the-badge&logo=apple-music&logoColor=white)
+
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+![Music](https://img.shields.io/badge/Listening_to_Music-fd5260?style=for-the-badge&logo=apple-music&logoColor=white)
+![Netflix01](https://img.shields.io/badge/Stranger_Things-E50914?style=for-the-badge&logo=netflix&logoColor=white)
