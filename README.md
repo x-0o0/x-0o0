@@ -4,12 +4,15 @@
 
 ![sendbird](https://img.shields.io/badge/Software_engineer_(Client_iOS)-Sendbird,_Inc.-825eeb?style=for-the-badge)
 
+
 ### 🎓 Education
-![univ](https://img.shields.io/badge/Konkuk_univ.-Electrical_Engineering-036b40?style=for-the-badge)
+![univ](https://img.shields.io/badge/ELECTRICAL_AND_ELECTRONICS_ENGINEERING-Konkuk_univ.-036b40?style=for-the-badge)
 
 ### 🏅 Activities
-[![wwdc19](https://img.shields.io/badge/WWDC19-Scholarship_Winner-999999?style=for-the-badge&logo=apple&logoColor=white)](https://blog.naver.com/dreamkonkuk/221537896778)</br>
-[![wwdc20](https://img.shields.io/badge/WWDC20-Swift_Student_Challenge_Winner-999999?style=for-the-badge&logo=apple&logoColor=white)](http://www.konkuk.ac.kr/Administration/Pub/jsp/New/ku_pe_02_01.jsp?forum=people&id=5b3f1eb)</br>
+
+[![wwdc19](https://img.shields.io/badge/WWDC19_Scholarship-Winner-999999?style=for-the-badge&logo=apple&logoColor=white)](https://blog.naver.com/dreamkonkuk/221537896778)</br>
+[![wwdc20](https://img.shields.io/badge/WWDC20_Swift_Student_Challenge-Winner-999999?style=for-the-badge&logo=apple&logoColor=white)](http://www.konkuk.ac.kr/Administration/Pub/jsp/New/ku_pe_02_01.jsp?forum=people&id=5b3f1eb)</br>
+[![swift.org](https://img.shields.io/badge/Swift_Mentorship_Program_(Swift.org)-Mentor-fa7343?style=for-the-badge&logo=swift&logoColor=white)](https://www.swift.org/mentorship/)</br>
 [![쿠링](https://img.shields.io/badge/건국대학교_공지앱-쿠링_(iOS)-3dbd80?style=for-the-badge)](https://kuring.notion.site/a69fdf7ff06848c2aedef1fdcf13ca57)
 - 스위프트 패키지 
   - [KuringSDK](https://github.com/KU-Stacks/kuring-sdk-ios-spm): 쿠링앱의 API/WS 통신을 위한 백엔드 로직을 담고 있는 스위프트 패키지 ([xframework](https://github.com/KU-Stacks/kuring-sdk-ios-spm/tree/main/XCFramework/KuringSDK.xcframework)를 사용)
