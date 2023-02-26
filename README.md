@@ -30,9 +30,10 @@
 <img src="https://user-images.githubusercontent.com/53814741/221390710-42623ce0-71cc-4bb4-9293-e3a7882ca608.png" width="20%"/>
 
 [![ChatUI](https://img.shields.io/badge/SwiftUI_for_Chat-ChatUI-955FDC?style=for-the-badge)](https://github.com/jaesung-0o0/ChatUI)
+`#swift-package`, `#chat`, `#swiftui`, `#combine`, `#figma`, `#chatgpt`, `#firebase`, `#giphy`, `#mapkit`
 - **Open-Source Swift Package**
   - [ChatUI](https://github.com/jaesung-0o0/ChatUI): ChatUI is an open-source Swift package that provides a simple and reliable solution for implementing chat interfaces using SwiftUI.
-    - `#swift-package`, `#swiftui`
+    - `#swift-package`, `#swiftui`, `#combine`
   - [ChatUI-examples](https://github.com/jaesung-0o0/ChatUI-examples): The real use-case examples of ChatUI with using external chat SDK / Real-time DB such as Firebase
     - `#swiftui`, `#chatgpt`, `#firebase`
   - [Figma: ChatUI - SwiftUI for Chat](https://www.figma.com/community/file/1211259538649728876): The design resources and guidelines for ChatUI.
