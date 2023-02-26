@@ -3,7 +3,9 @@
 ### I'm a...
 
 ![sendbird](https://img.shields.io/badge/Software_engineer_(Client_iOS)-Sendbird,_Inc.-825eeb?style=for-the-badge)
-
+- [Tech Blog: How to build a VoIP app with iOS CallKit and Sendbird Calls](https://sendbird.com/developer/tutorials/make-local-calls-with-callkit-and-sendbird-calls)
+- [iOS UIKit 3.0 part 2: Live coding](https://www.youtube.com/watch?v=P1l2k4VMWCY)
+- [iOS UIKit 3.0 part 1: Overview](https://www.youtube.com/watch?v=esn1v0f13Os)
 
 ### 🎓 Education
 ![univ](https://img.shields.io/badge/ELECTRICAL_AND_ELECTRONICS_ENGINEERING-Konkuk_univ.-036b40?style=for-the-badge)
@@ -22,6 +24,17 @@
 - 오픈 소스 프로젝트
   - [쿠링 Lite](https://github.com/KU-Stacks/kuring-lite-ios): 100% SwiftUI 로 구성된 앱프로젝트. 쿠링 앱의 주요 기능들을 KuringSDKm, KuringCommons 와 함께 제공하고 있는 오픈 앱 프로젝트.
     - `#swiftui`, `#spm`
+
+[![ChatUI](https://img.shields.io/badge/SwiftUI_for_Chat-ChatUI-955FDC?style=for-the-badge)](https://github.com/jaesung-0o0/ChatUI)
+- Open-Source Swift Package
+  - [ChatUI](https://github.com/jaesung-0o0/ChatUI): ChatUI is an open-source Swift package that provides a simple and reliable solution for implementing chat interfaces using SwiftUI.
+    - `#swift-package`, `#swiftui`
+  - [ChatUI-examples](https://github.com/jaesung-0o0/ChatUI-examples): The real use-case examples of ChatUI with using external chat SDK / Real-time DB such as Firebase
+    - `#swiftui`, `#chatgpt`, `#firebase`
+  - [Figma: ChatUI - SwiftUI for Chat](https://www.figma.com/community/file/1211259538649728876): The design resources and guidelines for ChatUI.
+    - `#figma`, `#uiux`, `#design`
+  - [*ChatUI Canvas(coming soon)*](https://www.notion.so/j-sung-0o0/How-to-create-chat-view-without-code-9dc5e1b673b94a3f9fa4f864d1e6b882?pvs=4): ChatUI Canvas allows developers to create chat view without any code by using ChatUI. The developer can export the `.swift` file and share it via airdrop or save it to the folder. 
+    - `#no-code-low-code`, `#appstore`
 
 ### 🤙 Contacts
 [![Email](https://img.shields.io/badge/Email-168de2?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:chic0815@icloud.com)
