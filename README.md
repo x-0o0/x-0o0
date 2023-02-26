@@ -39,7 +39,8 @@
     - `#swiftui`, `#chatgpt`, `#firebase`
   - [Figma: ChatUI - SwiftUI for Chat](https://www.figma.com/community/file/1211259538649728876): The design resources and guidelines for ChatUI.
     - `#figma`, `#uiux`, `#design`
-  - [*ChatUI Canvas(coming soon)*](https://www.notion.so/j-sung-0o0/How-to-create-chat-view-without-code-9dc5e1b673b94a3f9fa4f864d1e6b882?pvs=4): ChatUI Canvas allows developers to create chat view without any code by using ChatUI. The developer can export the `.swift` file and share it via airdrop or save it to the folder. 
+  - [*ChatUI Canvas(beta)*](https://www.notion.so/j-sung-0o0/How-to-create-chat-view-without-code-9dc5e1b673b94a3f9fa4f864d1e6b882?pvs=4): ChatUI Canvas allows developers to create chat view without any code by using ChatUI. The developer can export the `.swift` file and share it via airdrop or save it to the folder.
+    - [Get ChatUI Canvas](https://testflight.apple.com/join/AKiViqEk)
     - `#no-code-low-code`, `#appstore`
 
 - - -
