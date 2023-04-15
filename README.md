@@ -4,18 +4,26 @@
 
 ![sendbird](https://img.shields.io/badge/Software_engineer_(Client_iOS)-Sendbird,_Inc.-825eeb?style=for-the-badge)
 - [Tech Blog: How to build a VoIP app with iOS CallKit and Sendbird Calls](https://sendbird.com/developer/tutorials/make-local-calls-with-callkit-and-sendbird-calls)
+  - `#CallKit`, `#PushKit`, `#VoIP`, `#WebRTC`
+  - See Also: [Beginning-CallKit-SwiftUI](https://github.com/jaesung-0o0/Beginning-CallKit-SwiftUI) - `#CallKit`, `#SwiftUI`
 - [iOS UIKit 3.0 part 2: Live coding](https://www.youtube.com/watch?v=P1l2k4VMWCY)
+  - `#UIKit`, `#SendbirdUIKit`
 - [iOS UIKit 3.0 part 1: Overview](https://www.youtube.com/watch?v=esn1v0f13Os)
+  - `#UIKit`, `#SendbirdUIKit`, `#MVVM`
 
 ### 🎓 Education
-![univ](https://img.shields.io/badge/ELECTRICAL_AND_ELECTRONICS_ENGINEERING-Konkuk_univ.-036b40?style=for-the-badge)
+![univ (Mar, 2015 - Aug, 2022)](https://img.shields.io/badge/ELECTRICAL_AND_ELECTRONICS_ENGINEERING-Konkuk_univ.-036b40?style=for-the-badge)
+
+![univ](https://img.shields.io/badge/2019_Global_Student_Institute-State_University_of_New_York_@_Stony_Brook-990000?style=for-the-badge)
 
 ### 🏅 Activities
 
 [![wwdc19](https://img.shields.io/badge/WWDC19_Scholarship-Winner-999999?style=for-the-badge&logo=apple&logoColor=white)](https://blog.naver.com/dreamkonkuk/221537896778)</br>
 [![wwdc20](https://img.shields.io/badge/WWDC20_Swift_Student_Challenge-Winner-999999?style=for-the-badge&logo=apple&logoColor=white)](http://www.konkuk.ac.kr/Administration/Pub/jsp/New/ku_pe_02_01.jsp?forum=people&id=5b3f1eb)</br>
 [![swift.org](https://img.shields.io/badge/Swift_Mentorship_Program_(Swift.org)-Mentor-fa7343?style=for-the-badge&logo=swift&logoColor=white)](https://www.swift.org/mentorship/)</br>
-[![쿠링](https://img.shields.io/badge/건국대학교_공지앱-쿠링_(iOS)-3dbd80?style=for-the-badge)](https://kuring.notion.site/a69fdf7ff06848c2aedef1fdcf13ca57)
+[![apple.developer.academy](https://img.shields.io/badge/Apple_Developer_Academy_@_POSTECH_Lunch_Session_(Nov_2022)-Speaker-999999?style=for-the-badge&logo=apple&logoColor=white)](https://developeracademy.postech.ac.kr/)</br>
+[![expo](https://img.shields.io/badge/2019_Software_Education_Festival_@_Yeosu_Expo_(한국과학창의재단_KOFAC)-SW_Talk_Busking_Speaker-000020?style=for-the-badge&logo=expo&logoColor=white)](https://m.blog.naver.com/htiger31/221676998589?view=img_5)</br>
+[![쿠링](https://img.shields.io/badge/건국대학교_공지앱_쿠링_(kuring.konkuk)-iOS_Developer_&_Engineering_Manager_&_UIUX_Designer-3dbd80?style=for-the-badge)]([https://instagram.com/kuring.konkuk](https://apps.apple.com/kr/app/%EC%BF%A0%EB%A7%81-%EA%B1%B4%EA%B5%AD%EB%8C%80%ED%95%99%EA%B5%90-%EA%B3%B5%EC%A7%80%EC%95%B1/id1609873520))
 - 스위프트 패키지 
   - [KuringSDK](https://github.com/KU-Stacks/kuring-sdk-ios-spm): 쿠링앱의 API/WS 통신을 위한 백엔드 로직을 담고 있는 스위프트 패키지 ([xframework](https://github.com/KU-Stacks/kuring-sdk-ios-spm/tree/main/XCFramework/KuringSDK.xcframework)를 사용)
     - `#스위프트패키지`, `#xcframework`, `#websocket`, `#api`
