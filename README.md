@@ -12,8 +12,7 @@
   - `#UIKit`, `#SendbirdUIKit`, `#MVVM`
 
 ### 🎓 Education
-![univ (Mar, 2015 - Aug, 2022)](https://img.shields.io/badge/ELECTRICAL_AND_ELECTRONICS_ENGINEERING-Konkuk_univ.-036b40?style=for-the-badge)
-
+![univ (Mar, 2015 - Aug, 2022)](https://img.shields.io/badge/ELECTRICAL_AND_ELECTRONICS_ENGINEERING-Konkuk_univ.-036b40?style=for-the-badge)</br>
 ![univ](https://img.shields.io/badge/2019_Global_Student_Institute-State_University_of_New_York_@_Stony_Brook-990000?style=for-the-badge)
 
 ### 🏅 Activities
