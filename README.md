@@ -36,7 +36,7 @@ Contributions:
 - Google: [Generative AI Swift](https://github.com/google/generative-ai-swift/pull/9)
 - Sendbird: [Sendbird UIKit iOS](https://github.com/sendbird/sendbird-uikit-ios/graphs/contributors)
 - Sendbird: [SupportChat sample](https://github.com/sendbird/sendbird-supportchat-sample-ios)
-- Sendbird: [SendbirdCalls Quickstart & examples]([https://github.com/sendbird/quickstart-calls-directcall-ios](https://github.com/sendbird/quickstart-calls-directcall-ios/graphs/contributors))
+- Sendbird: [SendbirdCalls Quickstart & examples](https://github.com/sendbird/quickstart-calls-directcall-ios/graphs/contributors)
 
 - - -
 
