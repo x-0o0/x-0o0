@@ -32,6 +32,12 @@
   - [쿠링 Lite](https://github.com/KU-Stacks/kuring-lite-ios): 100% SwiftUI 로 구성된 앱프로젝트. 쿠링 앱의 주요 기능들을 KuringSDKm, KuringCommons 와 함께 제공하고 있는 오픈 앱 프로젝트.
     - `#swiftui`, `#spm`
 
+Contributions:
+- Google: [Generative AI Swift](https://github.com/google/generative-ai-swift/pull/9)
+- Sendbird: [Sendbird UIKit iOS](https://github.com/sendbird/sendbird-uikit-ios/graphs/contributors)
+- Sendbird: [SupportChat sample](https://github.com/sendbird/sendbird-supportchat-sample-ios)
+- Sendbird: [SendbirdCalls Quickstart & examples]([https://github.com/sendbird/quickstart-calls-directcall-ios](https://github.com/sendbird/quickstart-calls-directcall-ios/graphs/contributors))
+
 - - -
 
 <img src="https://user-images.githubusercontent.com/53814741/221390710-42623ce0-71cc-4bb4-9293-e3a7882ca608.png" width="20%"/>
