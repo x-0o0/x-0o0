@@ -33,7 +33,7 @@
     - `#swiftui`, `#spm`
 
 ### ✨ Contributions:
-- Google: [Generative AI Swift](https://github.com/google/generative-ai-swift/pull/9)
+- Google: [Generative AI Swift](https://github.com/google/generative-ai-swift/releases/tag/0.2.0)
 - Sendbird: [Sendbird UIKit iOS](https://github.com/sendbird/sendbird-uikit-ios/graphs/contributors)
 - Sendbird: [Sendbird ChatGPT sample](https://github.com/sendbird/sendbird-chatgpt-sample-ios)
 - Sendbird: [SupportChat sample](https://github.com/sendbird/sendbird-supportchat-sample-ios)
