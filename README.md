@@ -33,13 +33,20 @@
     - `#swiftui`, `#spm`
 
 ### ✨ Contributions:
-- Google: [Generative AI Swift v0.2.0](https://github.com/google/generative-ai-swift/releases/tag/0.2.0)
-- Apple: [Docs - Writing high performance Swift code](https://github.com/apple/swift/pull/66039)
-- Pointfreeco | The Composable Architecture: [Docs - Migrations to the reducer protocol](https://github.com/pointfreeco/swift-composable-architecture/pull/2144)
-- Sendbird: [Sendbird UIKit iOS](https://github.com/sendbird/sendbird-uikit-ios/graphs/contributors)
-- Sendbird: [Sendbird ChatGPT sample](https://github.com/sendbird/sendbird-chatgpt-sample-ios)
-- Sendbird: [SupportChat sample](https://github.com/sendbird/sendbird-supportchat-sample-ios)
-- Sendbird: [SendbirdCalls Quickstart & examples](https://github.com/sendbird/quickstart-calls-directcall-ios/graphs/contributors)
+- Google | Generative AI:
+  - [Generative AI Swift v0.2.0](https://github.com/google/generative-ai-swift/releases/tag/0.2.0) 
+    - [PR #9 | Modify swift version to 5.7.1 and fix test build error](https://github.com/google/generative-ai-swift/pull/9) 
+    - [PR #12 | Remove force unwrapping that is not required](https://github.com/google/generative-ai-swift/pull/12)
+- Apple | Swift:
+  - [PR #66039 | Docs - Writing high performance Swift code](https://github.com/apple/swift/pull/66039)
+- Pointfree.co | The Composable Architecture:
+  - [PR #2144 | Docs - Migrations to the reducer protocol](https://github.com/pointfreeco/swift-composable-architecture/pull/2144)
+  - [PR #2160 | Docs - Navigation](https://github.com/pointfreeco/swift-composable-architecture/pull/2160)
+- Sendbird: 
+  - [Main Contributor | Sendbird UIKit iOS](https://github.com/sendbird/sendbird-uikit-ios/graphs/contributors)
+  - [Main Contributor | Sendbird ChatGPT sample](https://github.com/sendbird/sendbird-chatgpt-sample-ios)
+  - [Main Contributor | SupportChat sample](https://github.com/sendbird/sendbird-supportchat-sample-ios)
+  - [Main Contributor | SendbirdCalls Quickstart & examples](https://github.com/sendbird/quickstart-calls-directcall-ios/graphs/contributors)
 
 - - -
 
