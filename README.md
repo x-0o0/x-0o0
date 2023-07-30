@@ -36,7 +36,7 @@
 
 #### 쿠링(ku-ring) (2021.10~)
 
-건국대학교 공지 알리미 앱 서비스를 개발하는 팀
+건국대학교 공지 알리미 앱 서비스를 개발하는 팀. [👉 GitHub Organization](https://github.com/ku-ring)
 
 [![instagram](https://img.shields.io/badge/@kuring.konkuk-e4405f?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kuring.konkuk)
 [![download](https://img.shields.io/badge/download_app-3DBD80?style=for-the-badge&logo=appstore&logoColor=white)](https://ku-ring.onelink.me/Yxhp/ba3d81ce)</br>
