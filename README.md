@@ -25,7 +25,7 @@
 - Mentor, Swift Mentorship Program 2023, Swift.org [🔗](https://www.swift.org/mentorship)
 #### 2022
 - Mentor, Swift Mentorship Program 2022, Swift.org [🔗](https://www.swift.org/mentorship)
-- Speaker, Lunch Session, Apple Developer Academy @ POSTECH [🔗](https://pulsenews.co.kr/view.php?year=2021&no=78757#:~:text=students%20will%20accomplish.%E2%80%9D-,Lee%20Jae%2Dsung,-%2C%20a%20two%2Dtime)
+- Speaker, Lunch Session, Apple Developer Academy @ POSTECH [🔗](https://www.linkedin.com/posts/chloekang0525_postech-appleabracademy-sendbird-activity-6999227088935297024-6env?utm_source=share&utm_medium=member_desktop)
 #### 2020
 - Winner, Apple WWDC20 Swift Student Challenge, Apple Inc. [🔗](http://www.konkuk.ac.kr/Administration/Pub/jsp/New/ku_pe_02_01.jsp?forum=people&id=5b3f1eb)
 #### 2019
@@ -54,7 +54,7 @@
 - 애플리케이션
   - [쿠링](https://ku-ring.onelink.me/Yxhp/ba3d81ce): 건국대학교 공지사항 및 60여개 학과/학부의 공지사항을 구독하고 푸시알림으로 받을 수 있는 공지알리미 앱.
     - 1.2 버전부터 100% SwiftUI 로 전환.
-    - `#uikit`, `#storyboard`, `#snapkit`, `#rxswift`, `#swiftui`, `#combine`
+    - `#uikit`, `#uistoryboard`, `#snapkit`, `#rxswift`, `#swiftui`, `#combine`
 - 스위프트 패키지 
   - [KuringSDK](https://github.com/KU-Stacks/kuring-sdk-ios-spm): 쿠링앱의 API/WS 통신을 위한 백엔드 로직을 담고 있는 스위프트 패키지 ([xframework](https://github.com/KU-Stacks/kuring-sdk-ios-spm/tree/main/XCFramework/KuringSDK.xcframework)를 사용)
     - `#스위프트패키지`, `#xcframework`, `#websocket`, `#api`
