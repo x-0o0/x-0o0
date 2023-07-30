@@ -1,8 +1,8 @@
 # What's good! I'm Jaesung Lee 👋
 
-### I'm a...
+## I'm a...
 
-![sendbird](https://img.shields.io/badge/Software_engineer_(Client_iOS)-Sendbird,_Inc.-825eeb?style=for-the-badge)
+### Software Engineer (Client iOS) @ Sendbird, Inc.
 - [Tech Blog: How to build a VoIP app with iOS CallKit and Sendbird Calls](https://sendbird.com/developer/tutorials/make-local-calls-with-callkit-and-sendbird-calls)
   - `#CallKit`, `#PushKit`, `#VoIP`, `#WebRTC`
   - See Also: [Beginning-CallKit-SwiftUI](https://github.com/jaesung-0o0/Beginning-CallKit-SwiftUI) - `#CallKit`, `#SwiftUI`
@@ -12,25 +12,60 @@
   - `#UIKit`, `#SendbirdUIKit`, `#MVVM`
 
 ### 🎓 Education
-![univ (Mar, 2015 - Aug, 2022)](https://img.shields.io/badge/ELECTRICAL_AND_ELECTRONICS_ENGINEERING-Konkuk_univ.-036b40?style=for-the-badge)</br>
-![univ](https://img.shields.io/badge/2019_Global_Student_Institute-State_University_of_New_York_@_Stony_Brook-990000?style=for-the-badge)
+- Electrical & Electronics Engineering, Konkuk Univ.(Seoul, South Korea) - Mar, 2015 - Aug, 2022
+- 2019 Global Summer Institute, State University of New York (Stony Brook, NY, USA) - Jul, 2019
 
 ### 🏅 Activities
+![wwdc](https://img.shields.io/badge/Apple_WWDC_Winner-999999?style=for-the-badge&logo=apple&logoColor=white)
+![ada](https://img.shields.io/badge/Apple_Developer_Academy_@_POSTECH-999999?style=for-the-badge&logo=apple&logoColor=white)
+![swift](https://img.shields.io/badge/Swift_Mentorship_Program_(Swift.org)-fa7343?style=for-the-badge&logo=swift&logoColor=white)
+![expo](https://img.shields.io/badge/2019_Software_Education_Festival_@_Yeosu_Expo_(한국과학창의재단_KOFAC)-000020?style=for-the-badge&logo=expo&logoColor=white)
 
-[![wwdc19](https://img.shields.io/badge/WWDC19_Scholarship-Winner-999999?style=for-the-badge&logo=apple&logoColor=white)](https://blog.naver.com/dreamkonkuk/221537896778)</br>
-[![wwdc20](https://img.shields.io/badge/WWDC20_Swift_Student_Challenge-Winner-999999?style=for-the-badge&logo=apple&logoColor=white)](http://www.konkuk.ac.kr/Administration/Pub/jsp/New/ku_pe_02_01.jsp?forum=people&id=5b3f1eb)</br>
-[![swift.org](https://img.shields.io/badge/Swift_Mentorship_Program_(Swift.org)-Mentor-fa7343?style=for-the-badge&logo=swift&logoColor=white)](https://www.swift.org/mentorship/)</br>
-[![apple.developer.academy](https://img.shields.io/badge/Apple_Developer_Academy_@_POSTECH_Lunch_Session_(Nov_2022)-Speaker-999999?style=for-the-badge&logo=apple&logoColor=white)](https://developeracademy.postech.ac.kr/)</br>
-[![expo](https://img.shields.io/badge/2019_Software_Education_Festival_@_Yeosu_Expo_(한국과학창의재단_KOFAC)-SW_Talk_Busking_Speaker-000020?style=for-the-badge&logo=expo&logoColor=white)](https://m.blog.naver.com/htiger31/221676998589?view=img_5)</br>
-[![쿠링](https://img.shields.io/badge/건국대학교_공지앱_쿠링_(kuring.konkuk)-iOS_Developer_&_Engineering_Manager_&_UIUX_Designer-3dbd80?style=for-the-badge)]([https://instagram.com/kuring.konkuk](https://apps.apple.com/kr/app/%EC%BF%A0%EB%A7%81-%EA%B1%B4%EA%B5%AD%EB%8C%80%ED%95%99%EA%B5%90-%EA%B3%B5%EC%A7%80%EC%95%B1/id1609873520))
+#### 2023
+- Mentor, Swift Mentorship Program 2023, Swift.org [🔗](https://www.swift.org/mentorship)
+#### 2022
+- Mentor, Swift Mentorship Program 2022, Swift.org [🔗](https://www.swift.org/mentorship)
+- Speaker, Lunch Session, Apple Developer Academy @ POSTECH [🔗](https://pulsenews.co.kr/view.php?year=2021&no=78757#:~:text=students%20will%20accomplish.%E2%80%9D-,Lee%20Jae%2Dsung,-%2C%20a%20two%2Dtime)
+#### 2020
+- Winner, Apple WWDC20 Swift Student Challenge, Apple Inc. [🔗](http://www.konkuk.ac.kr/Administration/Pub/jsp/New/ku_pe_02_01.jsp?forum=people&id=5b3f1eb)
+#### 2019
+- Speaker, SW Talk Busking, Software Education Festival @ Yeosu Expo (한국과학창의재단_KOFAC) [🔗](https://m.blog.naver.com/htiger31/221676998589?view=img_5)
+- Winner, Apple WWDC19 Scholarship, Apple Inc. [🔗](https://blog.naver.com/dreamkonkuk/221537896778)
+
+### ♣️ Crew
+
+#### 쿠링(ku-ring) (2021.10~)
+
+건국대학교 공지 알리미 앱 서비스를 개발하는 팀
+
+[![instagram](https://img.shields.io/badge/@kuring.konkuk-e4405f?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kuring.konkuk)
+[![download](https://img.shields.io/badge/download_app-3DBD80?style=for-the-badge&logo=appstore&logoColor=white)](https://ku-ring.onelink.me/Yxhp/ba3d81ce)</br>
+
+**Role**
+- iOS Development (2022.12 ~ Current)
+- iOS Development (2022.02 ~ 2022.06)
+- UIUX Design (2021.10 ~ 2022.02)
+
+**Skills**
+- iOS Development: UIKit, SwiftUI, Combine, WebSocket, API, DocC, Swift Package, XCFramework
+- UIUX Design: Figma, Zeplin
+
+**Projects**
+- 애플리케이션
+  - [쿠링](https://ku-ring.onelink.me/Yxhp/ba3d81ce): 건국대학교 공지사항 및 60여개 학과/학부의 공지사항을 구독하고 푸시알림으로 받을 수 있는 공지알리미 앱.
+    - 1.2 버전부터 100% SwiftUI 로 전환.
+    - `#uikit`, `#storyboard`, `#snapkit`, `#rxswift`, `#swiftui`, `#combine`
 - 스위프트 패키지 
   - [KuringSDK](https://github.com/KU-Stacks/kuring-sdk-ios-spm): 쿠링앱의 API/WS 통신을 위한 백엔드 로직을 담고 있는 스위프트 패키지 ([xframework](https://github.com/KU-Stacks/kuring-sdk-ios-spm/tree/main/XCFramework/KuringSDK.xcframework)를 사용)
     - `#스위프트패키지`, `#xcframework`, `#websocket`, `#api`
   - [KuringCommons](https://github.com/KU-Stacks/kuring-ios-commons): 쿠링 프로젝트에 공통적으로 사용되는 기능들을 모아둔 패키지. UI/UX 디자인을 위한 ColorSet 설계. ([DocC](https://github.com/KU-Stacks/kuring-ios-commons/tree/main/KuringCommons.doccarchive) 제공)
-    - `#스위프트패키지`, `#docc`, `#uiux`
+    - `#스위프트패키지`, `#docc`
 - 오픈 소스 프로젝트
   - [쿠링 Lite](https://github.com/KU-Stacks/kuring-lite-ios): 100% SwiftUI 로 구성된 앱프로젝트. 쿠링 앱의 주요 기능들을 KuringSDKm, KuringCommons 와 함께 제공하고 있는 오픈 앱 프로젝트.
     - `#swiftui`, `#spm`
+- 대외활동
+  - 쿠링 in Campus - 2022 건국대학교 축제 (일상회복 맞이주간) 부스 운영
+  - 쿠링의 공지단속 - 2023 건국대학교 축제 (일감호 축전) 부스 운영
 
 ### ✨ Contributions:
 - Google | Generative AI:
