@@ -61,7 +61,7 @@
   - [KuringCommons](https://github.com/KU-Stacks/kuring-ios-commons): 쿠링 프로젝트에 공통적으로 사용되는 기능들을 모아둔 패키지. UI/UX 디자인을 위한 ColorSet 설계. ([DocC](https://github.com/KU-Stacks/kuring-ios-commons/tree/main/KuringCommons.doccarchive) 제공)
     - `#스위프트패키지`, `#docc`
 - 오픈 소스 프로젝트
-  - [쿠링 Lite](https://github.com/KU-Stacks/kuring-lite-ios): 100% SwiftUI 로 구성된 앱프로젝트. 쿠링 앱의 주요 기능들을 KuringSDKm, KuringCommons 와 함께 제공하고 있는 오픈 앱 프로젝트.
+  - [쿠링 Lite](https://github.com/KU-Stacks/kuring-lite-ios): 100% SwiftUI 로 구성된 앱프로젝트. 쿠링 앱의 주요 기능들을 KuringSDK, KuringCommons 와 함께 제공하고 있는 오픈 앱 프로젝트.
     - `#swiftui`, `#spm`
 - 대외활동
   - 쿠링 in Campus - 2022 건국대학교 축제 (일상회복 맞이주간) 부스 운영
