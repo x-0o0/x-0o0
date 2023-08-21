@@ -77,6 +77,7 @@
 - Pointfree.co | The Composable Architecture:
   - [PR #2144 | Docs - Migrations to the reducer protocol](https://github.com/pointfreeco/swift-composable-architecture/pull/2144)
   - [PR #2160 | Docs - Navigation](https://github.com/pointfreeco/swift-composable-architecture/pull/2160)
+  - [PR #2389 | Docs - EffectOf](https://github.com/pointfreeco/swift-composable-architecture/pull/2389)
 - Sendbird: 
   - [Main Contributor | Sendbird UIKit iOS](https://github.com/sendbird/sendbird-uikit-ios/graphs/contributors)
   - [Main Contributor | Sendbird ChatGPT sample](https://github.com/sendbird/sendbird-chatgpt-sample-ios)
