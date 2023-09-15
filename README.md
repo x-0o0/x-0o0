@@ -69,6 +69,7 @@
 
 ### ✨ Contributions:
 > 코드수정이 하고 싶어요...
+
 - Google | Generative AI:
   - [Generative AI Swift v0.2.0](https://github.com/google/generative-ai-swift/releases/tag/0.2.0) 
     - [PR #9 | Modify swift version to 5.7.1 and fix test build error](https://github.com/google/generative-ai-swift/pull/9) 
