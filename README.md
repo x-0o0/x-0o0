@@ -68,12 +68,15 @@
   - 쿠링의 공지단속 - 2023 건국대학교 축제 (일감호 축전) 부스 운영
 
 ### ✨ Contributions:
+> 코드수정이 하고 싶어요...
 - Google | Generative AI:
   - [Generative AI Swift v0.2.0](https://github.com/google/generative-ai-swift/releases/tag/0.2.0) 
     - [PR #9 | Modify swift version to 5.7.1 and fix test build error](https://github.com/google/generative-ai-swift/pull/9) 
     - [PR #12 | Remove force unwrapping that is not required](https://github.com/google/generative-ai-swift/pull/12)
 - Apple | Swift:
   - [PR #66039 | Docs - Writing high performance Swift code](https://github.com/apple/swift/pull/66039)
+- Apple | Swift Package Manager:
+  - [PR #6879 | Docs - Update Product.swift to render the API description correctly](https://github.com/apple/swift-package-manager/pull/6879)
 - Pointfree.co | The Composable Architecture:
   - [PR #2144 | Docs - Migrations to the reducer protocol](https://github.com/pointfreeco/swift-composable-architecture/pull/2144)
   - [PR #2160 | Docs - Navigation](https://github.com/pointfreeco/swift-composable-architecture/pull/2160)
