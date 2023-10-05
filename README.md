@@ -25,6 +25,7 @@
 
 #### 2023
 - Mentor, Swift Mentorship Program 2023, Swift.org [🔗](https://www.swift.org/mentorship)
+- Staff, KWDC(Koreawide Developer Conference) 2023 [🔗](https://www.linkedin.com/in/jaesung-lee-674aa6185/details/volunteering-experiences/#:~:text=mentee%E2%80%99s%20learning%20goals.-,Staff,-Staff)
 #### 2022
 - Mentor, Swift Mentorship Program 2022, Swift.org [🔗](https://www.swift.org/mentorship)
 - Speaker, Lunch Session, Apple Developer Academy @ POSTECH [🔗](https://www.linkedin.com/posts/chloekang0525_postech-appleabracademy-sendbird-activity-6999227088935297024-6env?utm_source=share&utm_medium=member_desktop)
