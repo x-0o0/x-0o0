@@ -1,8 +1,10 @@
 # What's good! I'm Jaesung Lee 👋
 
-## I'm a...
+## I'm an iOS developer
 
-### Software Engineer (Client iOS) @ Sendbird, Inc.
+### Experiences
+
+#### Software Engineer (Client iOS) @ Sendbird, Inc. (Aug, 2019 - Oct, 2023)
 - [Tech Blog: How to build a VoIP app with iOS CallKit and Sendbird Calls](https://sendbird.com/developer/tutorials/make-local-calls-with-callkit-and-sendbird-calls)
   - `#CallKit`, `#PushKit`, `#VoIP`, `#WebRTC`
   - See Also: [Beginning-CallKit-SwiftUI](https://github.com/jaesung-0o0/Beginning-CallKit-SwiftUI) - `#CallKit`, `#SwiftUI`
@@ -68,8 +70,6 @@
   - 쿠링의 공지단속 - 2023 건국대학교 축제 (일감호 축전) 부스 운영
 
 ### ✨ Contributions:
-> 코드수정이 하고 싶어요...
-
 - Google | Generative AI:
   - [Generative AI Swift v0.2.0](https://github.com/google/generative-ai-swift/releases/tag/0.2.0) 
     - [PR #9 | Modify swift version to 5.7.1 and fix test build error](https://github.com/google/generative-ai-swift/pull/9) 
