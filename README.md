@@ -83,6 +83,7 @@
   - [PR #2144 | Docs - Migrations to the reducer protocol](https://github.com/pointfreeco/swift-composable-architecture/pull/2144)
   - [PR #2160 | Docs - Navigation](https://github.com/pointfreeco/swift-composable-architecture/pull/2160)
   - [PR #2389 | Docs - EffectOf](https://github.com/pointfreeco/swift-composable-architecture/pull/2389)
+  - [PR #2484 | Docs - README.md Code snippet](https://github.com/pointfreeco/swift-composable-architecture/pull/2484)
   - [PR #2499 | Docs - Stack Based Navigation](https://github.com/pointfreeco/swift-composable-architecture/pull/2499)
 - Sendbird: 
   - [Main Contributor | Sendbird UIKit iOS](https://github.com/sendbird/sendbird-uikit-ios/graphs/contributors)
