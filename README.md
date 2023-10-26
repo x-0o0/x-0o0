@@ -24,8 +24,9 @@
 ![expo](https://img.shields.io/badge/2019_Software_Education_Festival_@_Yeosu_Expo_(한국과학창의재단_KOFAC)-000020?style=for-the-badge&logo=expo&logoColor=white)
 
 #### 2023
-- Mentor, Swift Mentorship Program 2023, Swift.org [🔗](https://www.swift.org/mentorship)
+- Mentor, Swift Mentorship Program 2023, Swift.org [🔗](https://github.com/li3zhen1/Grape/pulls?q=is%3Apr+is%3Aclosed+author%3Ajaesung-0o0)
 - Staff, KWDC(Koreawide Developer Conference) 2023 [🔗](https://www.linkedin.com/in/jaesung-lee-674aa6185/details/volunteering-experiences/#:~:text=mentee%E2%80%99s%20learning%20goals.-,Staff,-Staff)
+- Staff, SyncSwift2023, AsynSwift @ Apple Developer Academy POSTECT [🔗](https://asyncswift.org)
 #### 2022
 - Mentor, Swift Mentorship Program 2022, Swift.org [🔗](https://www.swift.org/mentorship)
 - Speaker, Lunch Session, Apple Developer Academy @ POSTECH [🔗](https://www.linkedin.com/posts/chloekang0525_postech-appleabracademy-sendbird-activity-6999227088935297024-6env?utm_source=share&utm_medium=member_desktop)
@@ -118,9 +119,6 @@
 [![iOS development](https://img.shields.io/badge/iOS_Development-999999?style=for-the-badge&logo=apple&logoColor=white)](https://developer.apple.com)
 ![Swift](https://img.shields.io/badge/Swift-fa7343?style=for-the-badge&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/Swiftui-blue?style=for-the-badge&logo=swift&logoColor=white)
-
-[![SendbirdCalls](https://img.shields.io/badge/Sendbird_calls-825eeb?style=for-the-badge)](https://sendbird.com/features/voice-and-video)
-[![SendbirdUIKit](https://img.shields.io/badge/Sendbird_UIKit-825eeb?style=for-the-badge)](https://sendbird.com/features/chat-messaging/uikit)
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
 
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
