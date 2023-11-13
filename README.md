@@ -1,6 +1,6 @@
 # What's good! I'm Jaesung Lee 👋
 
-## I'm an iOS developer
+## I'm an 백수
 
 ### Experiences
 
