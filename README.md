@@ -7,7 +7,7 @@
 
 ### Experiences
 
-#### iOS Research Engineer @ Hyudai Motor Group (Dec, 2023 - Current)
+#### iOS Research Engineer @ Hyundai Motor Group (Dec, 2023 - Current)
 
 #### Software Engineer (Client iOS) @ Sendbird, Inc. (Aug, 2019 - Oct, 2023)
 - [Tech Blog: How to build a VoIP app with iOS CallKit and Sendbird Calls](https://sendbird.com/developer/tutorials/make-local-calls-with-callkit-and-sendbird-calls)
