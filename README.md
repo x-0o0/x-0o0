@@ -29,7 +29,7 @@
 ![expo](https://img.shields.io/badge/2019_Software_Education_Festival_@_Yeosu_Expo_(한국과학창의재단_KOFAC)-000020?style=for-the-badge&logo=expo&logoColor=white)
 
 #### 2023
-- Organizer, Winners' Night, [korean WWDC Scholars & Swift Student Challenge Winners](https://github.com/wwdc-kr) [🔗](https://www.instagram.com/p/C1MRxp3P6k2/?igsh=MzRlODBiNWFlZA==)
+- Organizer, Winners' Night, [Korean WWDC Scholars & Swift Student Challenge Winners](https://github.com/wwdc-kr) [🔗](https://www.instagram.com/p/C1MRxp3P6k2/?igsh=MzRlODBiNWFlZA==)
 - Teacher, FastCampus [🔗](https://fastcampus.co.kr/dev_online_ios)
 - Teacher, 이도 <제3의어른 - 앱개발자>, 세종시립도서관(Sejong Library) [🔗](https://www.instagram.com/p/CypkWKHvVYZ/?img_index=1)
 - Mentor, Swift Mentorship Program 2023, Swift.org [🔗](https://github.com/li3zhen1/Grape/pulls?q=is%3Apr+is%3Aclosed+author%3Ajaesung-0o0)
