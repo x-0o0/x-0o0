@@ -41,6 +41,7 @@
 #### 2020
 - Winner, Apple WWDC20 Swift Student Challenge, Apple Inc. [🔗](http://www.konkuk.ac.kr/Administration/Pub/jsp/New/ku_pe_02_01.jsp?forum=people&id=5b3f1eb)
 #### 2019
+- Speaker, Let'Swift 2019
 - Speaker, SW Talk Busking, Software Education Festival @ Yeosu Expo (한국과학창의재단_KOFAC) [🔗](https://m.blog.naver.com/htiger31/221676998589?view=img_5)
 - Winner, Apple WWDC19 Scholarship, Apple Inc. [🔗](https://blog.naver.com/dreamkonkuk/221537896778)
 
