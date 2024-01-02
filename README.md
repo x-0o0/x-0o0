@@ -93,6 +93,8 @@
   - [PR #2484 | Docs - README.md Code snippet](https://github.com/pointfreeco/swift-composable-architecture/pull/2484)
   - [PR #2499 | Docs - Stack Based Navigation](https://github.com/pointfreeco/swift-composable-architecture/pull/2499)
   - [PR #2549 | Update Swift compiler version to 5.7.1 to follow Apple's policy](https://github.com/pointfreeco/swift-composable-architecture/pull/2549)
+- Pointfree.co | swift-dependenices
+  - [PR #140 | Update Swift compiler version to 5.7.1 and fix CI script error](https://github.com/pointfreeco/swift-dependencies/pull/140) 
 - Sendbird: 
   - [Main Contributor | Sendbird UIKit iOS](https://github.com/sendbird/sendbird-uikit-ios/graphs/contributors)
   - [Main Contributor | Sendbird ChatGPT sample](https://github.com/sendbird/sendbird-chatgpt-sample-ios)
