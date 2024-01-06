@@ -1,4 +1,4 @@
-# What's good! I'm Jaesung Lee 👋
+# What's good! 👋
 
 ## I'm an iOS developer
 
@@ -8,15 +8,16 @@
 ### Experiences
 
 #### iOS Research Engineer @ Hyundai Motor Group (Dec, 2023 - Current)
+- `#swiftui`, `#tca`, `#swift-package`
 
 #### Software Engineer (Client iOS) @ Sendbird, Inc. (Aug, 2019 - Oct, 2023)
 - [Tech Blog: How to build a VoIP app with iOS CallKit and Sendbird Calls](https://sendbird.com/developer/tutorials/make-local-calls-with-callkit-and-sendbird-calls)
-  - `#CallKit`, `#PushKit`, `#VoIP`, `#WebRTC`
-  - See Also: [Beginning-CallKit-SwiftUI](https://github.com/jaesung-0o0/Beginning-CallKit-SwiftUI) - `#CallKit`, `#SwiftUI`
+  - `#callkit`, `#pushkit`, `#voip`, `#webrtc`
+  - See Also: [Beginning-CallKit-SwiftUI](https://github.com/jaesung-0o0/Beginning-CallKit-SwiftUI) - `#callkit`, `#swiftui`
 - [iOS UIKit 3.0 part 2: Live coding](https://www.youtube.com/watch?v=P1l2k4VMWCY)
-  - `#UIKit`, `#SendbirdUIKit`
+  - `#uikit`, `#sendbirduikit`
 - [iOS UIKit 3.0 part 1: Overview](https://www.youtube.com/watch?v=esn1v0f13Os)
-  - `#UIKit`, `#SendbirdUIKit`, `#MVVM`
+  - `#uikit`, `#sendbirduikit`, `#mvvm`
 
 ### 🎓 Education
 - Electrical & Electronics Engineering, Konkuk Univ.(Seoul, South Korea) - Mar, 2015 - Aug, 2022
@@ -41,7 +42,7 @@
 #### 2020
 - Winner, Apple WWDC20 Swift Student Challenge, Apple Inc. [🔗](http://www.konkuk.ac.kr/Administration/Pub/jsp/New/ku_pe_02_01.jsp?forum=people&id=5b3f1eb)
 #### 2019
-- Speaker, Let'Swift 2019
+- Speaker, Let'Swift 2019 [🔗](https://letswift.kr/2019)
 - Speaker, SW Talk Busking, Software Education Festival @ Yeosu Expo (한국과학창의재단_KOFAC) [🔗](https://m.blog.naver.com/htiger31/221676998589?view=img_5)
 - Winner, Apple WWDC19 Scholarship, Apple Inc. [🔗](https://blog.naver.com/dreamkonkuk/221537896778)
 
@@ -66,8 +67,14 @@
 - 애플리케이션
   - [쿠링](https://ku-ring.onelink.me/Yxhp/ba3d81ce): 건국대학교 공지사항 및 60여개 학과/학부의 공지사항을 구독하고 푸시알림으로 받을 수 있는 공지알리미 앱.
     - 1.2 버전부터 100% SwiftUI 로 전환.
-    - `#uikit`, `#uistoryboard`, `#snapkit`, `#rxswift`, `#swiftui`, `#combine`
-    - 오픈소스 프로젝트: [v2 레포](https://github.com/ku-ring/ios-app)
+      - `#uikit`, `#uistoryboard`, `#snapkit`, `#rxswift`, `#swiftui`, `#combine`
+    - 2.0 버전부터 오픈소스 프로젝트: [v2 레포](https://github.com/ku-ring/ios-app)
+      - `#swiftui`, `#tca`, `#swift-package`, `#github-actions`, `#패키지기반모듈화`
+- 멤버 모집 미션 프로젝트
+  - [🍿SwiftCinema](https://github.com/ku-ring/swift-cinema)
+    - 버그 고쳐서 앱 완성하기
+    - iOS 멤버 모집 시 기술 스택 검증용 미션 프로젝트
+    - `#swiftui`, `#github-actions`
 - 스위프트 패키지 
   - [KuringSDK](https://github.com/ku-ring/kuring-sdk-ios-spm): 쿠링앱의 API/WS 통신을 위한 백엔드 로직을 담고 있는 스위프트 패키지 ([xframework](https://github.com/KU-Stacks/kuring-sdk-ios-spm/tree/main/XCFramework/KuringSDK.xcframework)를 사용)
     - `#스위프트패키지`, `#xcframework`, `#websocket`, `#api`
