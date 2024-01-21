@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=x-0o0&style=flat-square&color=blueviolet)
+
 # What's good! 👋
 
 ## I'm an iOS developer
