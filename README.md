@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=x-0o0&style=flat-square&color=blueviolet)
-
 # What's good! 👋
 
 ## I'm an iOS developer
@@ -133,3 +131,5 @@
   - [Main Contributor | SupportChat sample](https://github.com/sendbird/sendbird-supportchat-sample-ios)
   - [Main Contributor | SendbirdCalls Quickstart & examples](https://github.com/sendbird/quickstart-calls-directcall-ios/graphs/contributors)
 </details>
+
+![](https://komarev.com/ghpvc/?username=x-0o0&style=flat-square&color=blueviolet)
