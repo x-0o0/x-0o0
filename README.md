@@ -74,7 +74,7 @@
 
 ### ♣️ Crew
 
-#### 쿠링(ku-ring) (2021.10~)
+#### 쿠링(ku-ring) (2021.10~2024.03)
 
 건국대학교 공지 알리미 앱 서비스를 개발하는 팀. [👉 GitHub Organization](https://github.com/ku-ring)
 
@@ -117,22 +117,10 @@
 <details>
   
 - Google | Generative AI:
-  - [Generative AI Swift v0.2.0](https://github.com/google/generative-ai-swift/releases/tag/0.2.0) 
-    - [PR #9 | Modify swift version to 5.7.1 and fix test build error](https://github.com/google/generative-ai-swift/pull/9) 
-    - [PR #12 | Remove force unwrapping that is not required](https://github.com/google/generative-ai-swift/pull/12)
 - Apple | Swift:
-  - [PR #66039 | Docs - Writing high performance Swift code](https://github.com/apple/swift/pull/66039)
 - Apple | Swift Package Manager:
-  - [PR #6879 | Docs - Update Product.swift to render the API description correctly](https://github.com/apple/swift-package-manager/pull/6879)
 - Pointfree.co | The Composable Architecture:
-  - [PR #2144 | Docs - Migrations to the reducer protocol](https://github.com/pointfreeco/swift-composable-architecture/pull/2144)
-  - [PR #2160 | Docs - Navigation](https://github.com/pointfreeco/swift-composable-architecture/pull/2160)
-  - [PR #2389 | Docs - EffectOf](https://github.com/pointfreeco/swift-composable-architecture/pull/2389)
-  - [PR #2484 | Docs - README.md Code snippet](https://github.com/pointfreeco/swift-composable-architecture/pull/2484)
-  - [PR #2499 | Docs - Stack Based Navigation](https://github.com/pointfreeco/swift-composable-architecture/pull/2499)
-  - [PR #2549 | Update Swift compiler version to 5.7.1 to follow Apple's policy](https://github.com/pointfreeco/swift-composable-architecture/pull/2549)
 - Pointfree.co | swift-dependenices
-  - [PR #140 | Update Swift compiler version to 5.7.1 and fix CI script error](https://github.com/pointfreeco/swift-dependencies/pull/140) 
 - Sendbird: 
   - [Main Contributor | Sendbird UIKit iOS](https://github.com/sendbird/sendbird-uikit-ios/graphs/contributors)
   - [Main Contributor | Sendbird ChatGPT sample](https://github.com/sendbird/sendbird-chatgpt-sample-ios)
