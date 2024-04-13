@@ -15,6 +15,7 @@
   
 - [Tech Blog: How to build a VoIP app with iOS CallKit and Sendbird Calls](https://sendbird.com/developer/tutorials/make-local-calls-with-callkit-and-sendbird-calls)
   - `#callkit`, `#pushkit`, `#voip`, `#webrtc`
+  - 원본: [sendbird/guidelines-ios](https://github.com/sendbird/guidelines-ios/tree/master/How%20to%20develop%20VoIP%20app%20with%20CallKit)
   - See Also: [Beginning-CallKit-SwiftUI](https://github.com/jaesung-0o0/Beginning-CallKit-SwiftUI) - `#callkit`, `#swiftui`
 - [iOS UIKit 3.0 part 2: Live coding](https://www.youtube.com/watch?v=P1l2k4VMWCY)
   - `#uikit`, `#sendbirduikit`
