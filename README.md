@@ -32,6 +32,14 @@
 ![swift](https://img.shields.io/badge/Swift_Mentorship_Program_(Swift.org)-fa7343?style=for-the-badge&logo=swift&logoColor=white)
 ![expo](https://img.shields.io/badge/2019_Software_Education_Festival_@_Yeosu_Expo_(한국과학창의재단_KOFAC)-000020?style=for-the-badge&logo=expo&logoColor=white)
 
+#### 2024
+
+<details>
+
+  - Speaker, kprintf Conference, GDSC Konkuk [🔗](https://festa.io/events/4948)
+
+</details>
+
 #### 2023
 <details>
 
