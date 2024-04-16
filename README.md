@@ -117,11 +117,12 @@
 ### ✨ Contributions:
 <details>
   
-- Google | Generative AI:
-- Apple | Swift:
-- Apple | Swift Package Manager:
-- Pointfree.co | The Composable Architecture:
-- Pointfree.co | swift-dependenices
+- Google | Generative AI
+- Apple | Swift
+- Apple | Swift Package Manager
+- Swift Server Community | [MQTT NIO](https://github.com/swift-server-community/mqtt-nio)
+- Pointfree.co | [The Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture)
+- Pointfree.co | [swift-dependenices](https://github.com/pointfreeco/swift-dependenices)
 - Sendbird: 
   - [Main Contributor | Sendbird UIKit iOS](https://github.com/sendbird/sendbird-uikit-ios/graphs/contributors)
   - [Main Contributor | Sendbird ChatGPT sample](https://github.com/sendbird/sendbird-chatgpt-sample-ios)
