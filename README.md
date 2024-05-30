@@ -84,7 +84,7 @@
 <details>
   
 **Role**
-- iOS Development (2022.12 ~ 2024.04)
+- iOS Development (2022.12 ~ 2024.03)
 - iOS Development (2022.02 ~ 2022.06)
 - UIUX Design (2021.10 ~ 2022.02)
 
