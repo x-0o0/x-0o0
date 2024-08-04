@@ -7,6 +7,9 @@
 
 ### Experiences
 
+![Group 1](https://github.com/user-attachments/assets/71820f86-4984-461f-8de2-f7cdd0dbfbd9)
+
+
 #### iOS Research Engineer @ Hyundai Motor Group (Dec, 2023 - Current)
 - `#swiftui`, `#tca`, `#swift-package`
 
