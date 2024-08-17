@@ -7,7 +7,7 @@
 
 ### Experiences
 
-![Group 1](https://github.com/user-attachments/assets/71820f86-4984-461f-8de2-f7cdd0dbfbd9)
+<img width="747" alt="experiences" src="https://github.com/user-attachments/assets/0e9fabc7-e951-4c21-be93-0a01b3629803">
 
 
 #### iOS Research Engineer @ Hyundai Motor Group (Dec, 2023 - Current)
