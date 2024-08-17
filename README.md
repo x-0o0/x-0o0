@@ -11,7 +11,7 @@
 
 
 #### iOS Research Engineer @ Hyundai Motor Group (Dec, 2023 - Current)
-- `#swiftui`, `#tca`, `#swift-package`
+- `#swiftui`, `#tca`, `#swift-package`, `#appintents`, `#widget`
 
 #### Software Engineer (Client iOS) @ Sendbird, Inc. (Aug, 2019 - Oct, 2023)
 <details>
