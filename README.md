@@ -11,7 +11,7 @@
 
 
 #### iOS Research Engineer @ Hyundai Motor Group (Dec, 2023 - Current)
-- `#swiftui`, `#tca`, `#swift-package`, `#appintents`, `#widget`
+- `#swiftui`, `#tca`, `#swift-package-manager`, `#appintents`, `#widget`
 
 #### Software Engineer (Client iOS) @ Sendbird, Inc. (Aug, 2019 - Oct, 2023)
 <details>
@@ -40,40 +40,40 @@
 
 <details>
 
-  - Speaker, kprintf Conference, GDSC Konkuk [🔗](https://festa.io/events/4948)
+  - **Speaker**, kprintf Conference, GDSC Konkuk [🔗](https://festa.io/events/4948)
 
 </details>
 
 #### 2023
 <details>
 
-  - Organizer, Winners' Night, [Korean WWDC Scholars & Swift Student Challenge Winners](https://github.com/wwdc-kr) [🔗](https://www.instagram.com/p/C1MRxp3P6k2/?igsh=MzRlODBiNWFlZA==)
-- Teacher, FastCampus [🔗](https://fastcampus.co.kr/dev_online_ios)
-- Teacher, 이도 <제3의어른 - 앱개발자>, 세종시립도서관(Sejong Library) [🔗](https://www.instagram.com/p/CypkWKHvVYZ/?img_index=1)
-- Mentor, Swift Mentorship Program 2023, Swift.org [🔗](https://github.com/li3zhen1/Grape/pulls?q=is%3Apr+is%3Aclosed+author%3Ajaesung-0o0)
-- Staff, KWDC(Koreawide Developer Conference) 2023 [🔗](https://www.linkedin.com/in/jaesung-lee-674aa6185/details/volunteering-experiences/#:~:text=mentee%E2%80%99s%20learning%20goals.-,Staff,-Staff)
-- Staff, SyncSwift2023, AsynSwift @ Apple Developer Academy POSTECT [🔗](https://asyncswift.org)
+  - **Organizer**, Winners' Night, [Korean WWDC Scholars & Swift Student Challenge Winners](https://github.com/wwdc-kr) [🔗](https://www.instagram.com/p/C1MRxp3P6k2/?igsh=MzRlODBiNWFlZA==)
+- **Teacher**, FastCampus [🔗](https://fastcampus.co.kr/dev_online_ios)
+- **Teacher**, 이도 <제3의어른 - 앱개발자>, 세종시립도서관(Sejong Library) [🔗](https://www.instagram.com/p/CypkWKHvVYZ/?img_index=1)
+- **Mentor**, Swift Mentorship Program 2023, Swift.org [🔗](https://github.com/li3zhen1/Grape/pulls?q=is%3Apr+is%3Aclosed+author%3Ajaesung-0o0)
+- **Staff**, KWDC(Koreawide Developer Conference) 2023 [🔗](https://www.linkedin.com/in/jaesung-lee-674aa6185/details/volunteering-experiences/#:~:text=mentee%E2%80%99s%20learning%20goals.-,Staff,-Staff)
+- **Staff**, SyncSwift2023, AsynSwift @ Apple Developer Academy POSTECT [🔗](https://asyncswift.org)
 </details>
   
 #### 2022
 <details>
 
-  - Mentor, Swift Mentorship Program 2022, Swift.org [🔗](https://www.swift.org/mentorship)
-- Speaker, Lunch Session, Apple Developer Academy @ POSTECH [🔗](https://www.linkedin.com/posts/chloekang0525_postech-appleabracademy-sendbird-activity-6999227088935297024-6env?utm_source=share&utm_medium=member_desktop)
+  - **Mentor**, Swift Mentorship Program 2022, Swift.org [🔗](https://www.swift.org/mentorship)
+- **Speaker**, Lunch Session, Apple Developer Academy @ POSTECH [🔗](https://www.linkedin.com/posts/chloekang0525_postech-appleabracademy-sendbird-activity-6999227088935297024-6env?utm_source=share&utm_medium=member_desktop)
 </details>
 
 #### 2020
 <details>
 
-  - Winner, Apple WWDC20 Swift Student Challenge, Apple Inc. [🔗](http://www.konkuk.ac.kr/Administration/Pub/jsp/New/ku_pe_02_01.jsp?forum=people&id=5b3f1eb)
+  - **Winner**, Apple WWDC20 Swift Student Challenge, Apple Inc. [🔗](http://www.konkuk.ac.kr/Administration/Pub/jsp/New/ku_pe_02_01.jsp?forum=people&id=5b3f1eb)
 </details>
 
 #### 2019
 <details>
 
-  - Speaker, Let'Swift 2019 [🔗](https://letswift.kr/2019)
-- Speaker, SW Talk Busking, Software Education Festival @ Yeosu Expo (한국과학창의재단_KOFAC) [🔗](https://m.blog.naver.com/htiger31/221676998589?view=img_5)
-- Winner, Apple WWDC19 Scholarship, Apple Inc. [🔗](https://blog.naver.com/dreamkonkuk/221537896778)
+  - **Speaker**, Let'Swift 2019 [🔗](https://letswift.kr/2019)
+- **Speaker**, SW Talk Busking, Software Education Festival @ Yeosu Expo (한국과학창의재단_KOFAC) [🔗](https://m.blog.naver.com/htiger31/221676998589?view=img_5)
+- **Winner**, Apple WWDC19 Scholarship, Apple Inc. [🔗](https://blog.naver.com/dreamkonkuk/221537896778)
 </details>
 
 ### ♣️ Crew
@@ -92,7 +92,7 @@
 - UIUX Design (2021.10 ~ 2022.02)
 
 **Skills**
-- iOS Development: UIKit, SwiftUI, Combine, WebSocket, API, DocC, Swift Package, Framework
+- iOS Development: UIKit, SwiftUI, Combine, WebSocket, HTTP API, DocC, Swift Package, Framework, GitHub Actions, TCA
 - UIUX Design: Figma, Zeplin
 
 **Projects**
@@ -102,14 +102,14 @@
       - `#uikit`, `#uistoryboard`, `#snapkit`, `#rxswift`, `#swiftui`, `#combine`
     - 2.0 버전부터 오픈소스 프로젝트: [v2 레포](https://github.com/ku-ring/ios-app)
       - `#swiftui`, `#tca`, `#swift-package`, `#github-actions`, `#패키지기반모듈화`
-- 멤버 모집 미션 프로젝트
+- 멤버 모집 미션 프로젝트 개발
   - [🍿SwiftCinema](https://github.com/ku-ring/swift-cinema)
-    - 버그 고쳐서 앱 완성하기
-    - iOS 멤버 모집 시 기술 스택 검증용 미션 프로젝트
+    - 주제: 버그 고쳐서 앱 완성하기
+    - 목적: iOS 멤버 모집 시 기본 기술 스택 검증용 미션 프로젝트
     - `#swiftui`, `#github-actions`
 - 스위프트 패키지 
   - [KuringSDK](https://github.com/ku-ring/kuring-sdk-ios-spm): 쿠링앱의 API/WS 통신을 위한 백엔드 로직을 담고 있는 스위프트 패키지 ([xframework](https://github.com/KU-Stacks/kuring-sdk-ios-spm/tree/main/XCFramework/KuringSDK.xcframework)를 사용)
-    - `#스위프트패키지`, `#xcframework`, `#websocket`, `#api`
+    - `#스위프트패키지`, `#xcframework`, `#websocket`, `#http-api`
   - [KuringCommons](https://github.com/ku-ring/kuring-ios-commons): 쿠링 프로젝트에 공통적으로 사용되는 기능들을 모아둔 패키지. UI/UX 디자인을 위한 ColorSet 설계. ([DocC](https://github.com/KU-Stacks/kuring-ios-commons/tree/main/KuringCommons.doccarchive) 제공)
     - `#스위프트패키지`, `#docc`
 - 대외활동
