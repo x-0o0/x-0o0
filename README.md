@@ -86,7 +86,7 @@
 - **Winner**, Apple WWDC19 Scholarship, Apple Inc. [🔗](https://blog.naver.com/dreamkonkuk/221537896778)
 </details>
 
-### ♣️ Crew
+### ♣️ Club Activities
 
 #### 쿠링(ku-ring) (2021.10~2024.03)
 
@@ -97,8 +97,7 @@
 <details>
   
 **Role**
-- iOS Development (2022.12 ~ 2024.03)
-- iOS Development (2022.02 ~ 2022.06)
+- iOS Development (2022.02 ~ 2024.03)
 - UIUX Design (2021.10 ~ 2022.02)
 
 **Skills**
