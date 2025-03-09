@@ -1,13 +1,11 @@
 # What's good! 👋
 
-## I'm an iOS developer
-
 ### 🤙 Contacts
 [![Email](https://img.shields.io/badge/Email-168de2?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:chic0815@icloud.com)
 
 ### Experiences
 
-<img width="747" alt="experiences" src="https://github.com/user-attachments/assets/0e9fabc7-e951-4c21-be93-0a01b3629803">
+<img width="450" alt="experiences" src="https://github.com/user-attachments/assets/0e9fabc7-e951-4c21-be93-0a01b3629803">
 
 
 #### iOS Research Engineer @ Hyundai Motor Group (Dec, 2023 - Current)
@@ -39,8 +37,9 @@
 #### 2025
 
 <details>
-  
-  - **Organizer**, Winners' Day [🔗](https://www.instagram.com/p/DEc_nTHTQXY/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
+
+  - **Organizer**, KWDC(Koreawide Developer Conference) 
+  - **Organizer**, Winners' Day (Korean WWDC Scholars & Swift Student Challenge Winners' Event) [🔗](https://www.instagram.com/p/DEc_nTHTQXY/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
   
 </details>
   
@@ -58,48 +57,48 @@
 <details>
 
   - **Organizer**, Winners' Night, [Korean WWDC Scholars & Swift Student Challenge Winners](https://github.com/wwdc-kr) [🔗](https://www.instagram.com/p/C1MRxp3P6k2/?igsh=MzRlODBiNWFlZA==)
-- **Teacher**, FastCampus [🔗](https://fastcampus.co.kr/dev_online_ios)
-- **Teacher**, 이도 <제3의어른 - 앱개발자>, 세종시립도서관(Sejong Library) [🔗](https://www.instagram.com/p/CypkWKHvVYZ/?img_index=1)
-- **Mentor**, Swift Mentorship Program 2023, Swift.org [🔗](https://github.com/li3zhen1/Grape/pulls?q=is%3Apr+is%3Aclosed+author%3Ajaesung-0o0)
-- **Staff**, KWDC(Koreawide Developer Conference) 2023 [🔗](https://www.linkedin.com/in/jaesung-lee-674aa6185/details/volunteering-experiences/#:~:text=mentee%E2%80%99s%20learning%20goals.-,Staff,-Staff)
-- **Staff**, SyncSwift2023, AsynSwift @ Apple Developer Academy POSTECT [🔗](https://asyncswift.org)
+  - **Teacher**, FastCampus [🔗](https://fastcampus.co.kr/dev_online_ios)
+  - **Teacher**, 이도 <제3의어른 - 앱개발자>, 세종시립도서관(Sejong Library) [🔗](https://www.instagram.com/p/CypkWKHvVYZ/?img_index=1)
+  - **Mentor**, Swift Mentorship Program 2023, Swift.org [🔗](https://github.com/li3zhen1/Grape/pulls?q=is%3Apr+is%3Aclosed+author%3Ajaesung-0o0)
+  - **Staff**, KWDC(Koreawide Developer Conference) 2023 [🔗](https://www.linkedin.com/in/jaesung-lee-674aa6185/details/volunteering-experiences/#:~:text=mentee%E2%80%99s%20learning%20goals.-,Staff,-Staff)
+  - **Staff**, SyncSwift2023, AsynSwift @ Apple Developer Academy POSTECT [🔗](https://asyncswift.org)
+    
 </details>
   
 #### 2022
 <details>
 
   - **Mentor**, Swift Mentorship Program 2022, Swift.org [🔗](https://www.swift.org/mentorship)
-- **Speaker**, Lunch Session, Apple Developer Academy @ POSTECH [🔗](https://www.linkedin.com/posts/chloekang0525_postech-appleabracademy-sendbird-activity-6999227088935297024-6env?utm_source=share&utm_medium=member_desktop)
+  - **Speaker**, Lunch Session, Apple Developer Academy @ POSTECH [🔗](https://www.linkedin.com/posts/chloekang0525_postech-appleabracademy-sendbird-activity-6999227088935297024-6env?utm_source=share&utm_medium=member_desktop)
+
 </details>
 
 #### 2020
 <details>
 
   - **Winner**, Apple WWDC20 Swift Student Challenge, Apple Inc. [🔗](http://www.konkuk.ac.kr/Administration/Pub/jsp/New/ku_pe_02_01.jsp?forum=people&id=5b3f1eb)
+
 </details>
 
 #### 2019
 <details>
 
   - **Speaker**, Let'Swift 2019 [🔗](https://letswift.kr/2019)
-- **Speaker**, SW Talk Busking, Software Education Festival @ Yeosu Expo (한국과학창의재단_KOFAC) [🔗](https://m.blog.naver.com/htiger31/221676998589?view=img_5)
-- **Winner**, Apple WWDC19 Scholarship, Apple Inc. [🔗](https://blog.naver.com/dreamkonkuk/221537896778)
+  - **Speaker**, SW Talk Busking, Software Education Festival @ Yeosu Expo (한국과학창의재단_KOFAC) [🔗](https://m.blog.naver.com/htiger31/221676998589?view=img_5)
+  - **Winner**, Apple WWDC19 Scholarship, Apple Inc. [🔗](https://blog.naver.com/dreamkonkuk/221537896778)
+
 </details>
 
 ### ♣️ Club Activities
 
 #### 쿠링(ku-ring) (2021.10~2024.03)
 
-건국대학교 공지 알리미 앱 서비스를 개발하는 팀. [👉 GitHub Organization](https://github.com/ku-ring)
-
-[![download](https://img.shields.io/badge/download_app-3DBD80?style=for-the-badge&logo=appstore&logoColor=white)](https://ku-ring.onelink.me/Yxhp/ba3d81ce)</br>
+건국대학교 공지 알리미 앱 서비스를 개발 [👉 GitHub Organization](https://github.com/ku-ring)
+- iOS 앱 개발 리드 (2022.02 ~ 2024.03)
+- UIUX 디자인 (2021.10 ~ 2022.02)
 
 <details>
   
-**Role**
-- iOS Development (2022.02 ~ 2024.03)
-- UIUX Design (2021.10 ~ 2022.02)
-
 **Skills**
 - iOS Development: UIKit, SwiftUI, Combine, WebSocket, HTTP API, DocC, Swift Package, Framework, GitHub Actions, TCA
 - UIUX Design: Figma, Zeplin
@@ -107,6 +106,7 @@
 **Projects**
 - 애플리케이션
   - [쿠링](https://ku-ring.onelink.me/Yxhp/ba3d81ce): 건국대학교 공지사항 및 60여개 학과/학부의 공지사항을 구독하고 푸시알림으로 받을 수 있는 공지알리미 앱.
+    - 버전1 기준 에러 발생율 0.1 미만
     - 1.2 버전부터 100% SwiftUI 로 전환.
       - `#uikit`, `#uistoryboard`, `#snapkit`, `#rxswift`, `#swiftui`, `#combine`
     - 2.0 버전부터 오픈소스 프로젝트: [v2 레포](https://github.com/ku-ring/ios-app)
