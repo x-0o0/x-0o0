@@ -86,7 +86,7 @@
   - **Speaker**, Let'Swift 2019 [🔗](https://letswift.kr/2019)
   - **Speaker**, SW Talk Busking, Software Education Festival @ Yeosu Expo (한국과학창의재단_KOFAC) [🔗](https://m.blog.naver.com/htiger31/221676998589?view=img_5)
   - **Winner**, Apple WWDC19 Scholarship, Apple Inc. [🔗](https://blog.naver.com/dreamkonkuk/221537896778)
-  - **Ranked in Global Top 8(Asia 2rd)**, [Pioneer Tournament](https://pioneer.app)
+  - **Ranked in Global Top 8(Asia 2nd place)**, [Summer, Pioneer Tournament](https://pioneer.app)
 </details>
 
 ### ♣️ Club Activities
