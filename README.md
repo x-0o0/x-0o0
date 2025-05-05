@@ -39,7 +39,7 @@
 <details>
 
   - **Organizer**, KWDC(Koreawide Developer Conference) 
-  - **Organizer**, Winners' Day (Korean WWDC Scholars & Swift Student Challenge Winners' Event) [🔗](https://www.instagram.com/p/DEc_nTHTQXY/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
+  - **Organizer**, Winners' Day (Korean Swift Students Event with WWDC Scholars & Swift Student Challenge Winners) [🔗](https://www.instagram.com/p/DEc_nTHTQXY/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
   
 </details>
   
