@@ -2,15 +2,13 @@
 
 ### Apple Platform SWE
 
-### 🤙 Contacts
 [![Email](https://img.shields.io/badge/Email-168de2?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:chic0815@icloud.com)
-
-<img width="450" alt="experiences" src="https://github.com/user-attachments/assets/0e9fabc7-e951-4c21-be93-0a01b3629803">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/x-0o0)
 
 ## Work Experience
 
 <table>
-  <tr>
+  <tr valign="top">
     <td align="center" width="50%">
       <img src="https://img.shields.io/badge/Hyundai-002C5E?style=for-the-badge&logo=hyundai&logoColor=white" alt="HMC"/>
       <br><b>Hyundai Motor Company</b>
@@ -25,18 +23,18 @@
 ## Awards & Honors
 
 <table>
-  <tr>
-    <td align="center" width="33%"
+  <tr valign="top">
+    <td align="center" width="33%">
       <img src="https://img.shields.io/badge/WWDC19-000000?style=for-the-badge&logo=Apple&logoColor=white" alt="wwdc"/>
       <br><b>WWDC Scholar</b>
     </td>
-    <td align="center" width="33%"
+    <td align="center" width="33%">
       <img src="https://img.shields.io/badge/WWDC20-000000?style=for-the-badge&logo=apple&logoColor=white" alt="ssc"/>
       <br><b>Swift Student Challenge Winnner</b>
     </td>
-    <td align="center" width="33%"
-      <img src="https://img.shields.io/badge/Pioneer_Tournament-000000?style=for-the-badge&logo=apple&logoColor=white" alt="pionner"/>
-      <br><b>Global Top 8</b>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/Pioneer_Tournament-ffe44b?style=for-the-badge" alt="pionner"/>
+      <br><b>Finalist</b>
     </td>
   </tr>
 </table>
