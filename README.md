@@ -1,3 +1,5 @@
+<div align="center">
+  
 # Jaesung Lee
 
 ### Apple Platform SWE
@@ -5,13 +7,15 @@
 [![Email](https://img.shields.io/badge/Email-168de2?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:chic0815@icloud.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/x-0o0)
 
+</div>
+
 ## Work Experience
 
 <table>
   <tr valign="top">
     <td align="center" width="50%">
       <img src="https://img.shields.io/badge/Hyundai-002C5E?style=for-the-badge&logo=hyundai&logoColor=white" alt="HMC"/>
-      <br><b>Hyundai Motor Company</b>
+      <br><b>현대자동차</b>
     </td>
     <td align="center" width="50%">
       <img src="https://img.shields.io/badge/Sendbird-6210CC?style=for-the-badge" alt="HMC"/>
