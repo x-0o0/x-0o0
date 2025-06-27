@@ -5,30 +5,50 @@
 ### 🤙 Contacts
 [![Email](https://img.shields.io/badge/Email-168de2?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:chic0815@icloud.com)
 
-### Experiences
-
 <img width="450" alt="experiences" src="https://github.com/user-attachments/assets/0e9fabc7-e951-4c21-be93-0a01b3629803">
 
+### Work Experience
 
-#### iOS Research Engineer @ Hyundai Motor Group (Dec, 2023 - Current)
-- `#swiftui`, `#tca`, `#swift-package-manager`, `#appintents`, `#widget`
+#### Hyundai Motor Company (2023.12 ~ Present)
+**Research Engineer**, Infotainment Mobile Development Team, AVP Division
+- Developed Connected Car Service Mobile App, especially library dependencies, HTTP networking module, the features regarding the vehicle location, App Intents, Widgets and Swift Testing.
+  “MYGENESIS”, “myHyundai”, “Kia App”
+- pre-developed App Intents features were shown as demo to the Kia Business Division
+and its executives
 
-#### SWE @ Sendbird, Inc. (Aug, 2019 - Oct, 2023)
-<details>
-  
-- [Tech Blog: How to build a VoIP app with iOS CallKit and Sendbird Calls](https://sendbird.com/developer/tutorials/make-local-calls-with-callkit-and-sendbird-calls)
-  - `#callkit`, `#pushkit`, `#voip`, `#webrtc`
-  - 원본: [sendbird/guidelines-ios](https://github.com/sendbird/guidelines-ios/tree/master/How%20to%20develop%20VoIP%20app%20with%20CallKit)
-  - See Also: [Beginning-CallKit-SwiftUI](https://github.com/jaesung-0o0/Beginning-CallKit-SwiftUI) - `#callkit`, `#swiftui`
-- [iOS UIKit 3.0 part 2: Live coding](https://www.youtube.com/watch?v=P1l2k4VMWCY)
-  - `#uikit`, `#sendbirduikit`
-- [iOS UIKit 3.0 part 1: Overview](https://www.youtube.com/watch?v=esn1v0f13Os)
-  - `#uikit`, `#sendbirduikit`, `#mvvm`
-</details>
+#### Sendbird Inc. (2019.08 ~ 2023.10)
+**Software Engineer**, Client iOS
+- Developed iOS SDKs for chat and voice/video calls
+  “SendbirdSDK”, “SendbirdCalls”
+- Led public beta project as a Communication Leader
+  “Sendbird Notification Center Public Beta Project”
+- Showcase for U.S.A. Client
+  “Demo application powered by generative AI”
+- Contributions (GitHub)
+  https://github.com/sendbird/sendbird-uikit-ios
+  https://github.com/sendbird/sendbird-calls-ios
+  https://github.com/sendbird/SendBird-Desk-iOS-Framework
+  https://github.com/sendbird/sendbird-chatgpt-sample-ios
+  https://github.com/sendbird/sendbird-supportchat-sample-ios
+  https://github.com/sendbird/quickstart-calls-directcall-ios
+- Product Education
+  [iOS UIKit 3.0 part 1: Overview](https://www.youtube.com/watch?v=esn1v0f13Os)
+  [iOS UIKit 3.0 part 2: Live coding](https://www.youtube.com/watch?v=P1l2k4VMWCY)
 
 ### 🎓 Education
-- Electrical & Electronics Engineering, Konkuk Univ.(Seoul, South Korea) - Mar, 2015 - Aug, 2022
-- 2019 Global Summer Institute, State University of New York (Stony Brook, NY, USA) - Jul, 2019
+B.S., Electrical and Electronic Engineering, Konkuk University
+(2015.03 ~ 2022.08)
+- 2020.05 | Winner, Apple Swift Student Challenge
+            “AR-based Taewondo Education” Application
+- 2019.10 | Finalist - Top 8 (Global), Pioneer Tournament
+            “Guzo”, AR-based First Aid Education Platform - Leader, Developer
+- 2019.08 | Limited coursework from the 3rd year due to employment at “Sendbird Inc.”
+- 2019.07 | 1st Place, AR Kiosk Idea Competition, Konkuk University
+Facial recognition and weather-based AR features Design
+- 2019.07 | International Scholarship, State University of New York, Stony Brook
+            - Global Summer Institute Certificate Program
+- 2019.04 | Winner, Apple WWDC Scholarship
+            “AR-based CPR Education” Application
 
 ### 🏅 Activities
 ![wwdc](https://img.shields.io/badge/Apple_WWDC_Winner-999999?style=for-the-badge&logo=apple&logoColor=white)
