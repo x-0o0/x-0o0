@@ -7,8 +7,6 @@
 [![Email](https://img.shields.io/badge/Email-168de2?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:chic0815@icloud.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/x-0o0)
 
-</div>
-
 ## Work Experience
 
 <table>
@@ -23,7 +21,7 @@
     </td>
   </tr>
 </table>
-
+  
 ## Awards & Honors
 
 <table>
@@ -43,7 +41,13 @@
   </tr>
 </table>
 
+</div>
+
+<div align="center">
+  
 ## Activites
+
+</div>
 
 ### Mentoring & Lectures
 - 2023.11 | **Youth Coding Instructor**, Sejong City Library - 이도 <제3의어른 - 앱개발자> [🔗](https://www.instagram.com/p/CypkWKHvVYZ/?img_index=1)
@@ -68,7 +72,12 @@
 - 2019.11 | **Session Speaker**, Let'Swift
 - 2019.10 | **Session Speaker**, SW Talk Busking, Software Education Festival @ Yeosu Expo (한국과학창의재단_KOFAC) [🔗](https://m.blog.naver.com/htiger31/221676998589?view=img_5)
 
+<div align="center">
+
 ## Education
+
+</div>
+
 ### B.S., Electrical and Electronic Engineering, Konkuk University
 (2015.03 ~ 2022.08)
 - 2019.07 | **International Scholarship**, State University of New York, Stony Brookㅤㅤ </br>
@@ -78,8 +87,12 @@
 - 2019.07 | **1st Place, AR Kiosk Idea Competition, Konkuk University**ㅤㅤ </br>
 　　Facial recognition and weather-based AR features Design
 
+<div align="center">
 
 ## Contributions:
+
+</div>
+
 <details>
   
 - Google | Generative AI
