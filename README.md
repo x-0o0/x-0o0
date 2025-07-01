@@ -95,7 +95,7 @@
 
 <details>
   
-- Google | Generative AI
+- Google | Generative AI (google-gemini)
 - Apple | Swift
 - Apple | Swift Package Manager
 - Swift Server Community | [MQTT NIO](https://github.com/swift-server-community/mqtt-nio)
