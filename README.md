@@ -89,7 +89,7 @@
 
 <div align="center">
 
-## Contributions:
+## Contributions
 
 </div>
 
