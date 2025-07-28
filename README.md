@@ -56,8 +56,8 @@
 - 2022.10 | **Mentor**, Swift Mentorship Program, Swift.org
   
 ### Communities
-- ~Present | **Organizer**, Koreawide Developer Conference(KWDC)
 - ~Present | **Organizer**, Community for Swift Students 🇰🇷
+- ~Present | **Organizer**, Koreawide Developer Conference(KWDC)
 - 2025.01 | **Organizer**, Winners' Day, WWDC Winners Korea
 - 2024.10 | **Organizer**, Koreawide Developer Conference (KWDC)
 - 2023.12 | **Organizer**, Winners' Night, WWDC Winners Korea
@@ -66,6 +66,7 @@
 - 2021.10 | **Designer & iOS Developer**, [쿠링(ku-ring)]((https://github.com/ku-ring)) - Lead "쿠링 - 건국대학교 공지알리미" iOS app development (v1.0 ~ v2.0)
 
 ### Talks
+- 2025.07 | **LT Speaker**, WWDC25 Recap for Swift Students, Apple Japan 🇯🇵
 - 2024.10 | **Session Speaker**, Apple Developer Academy @ POSTECH
 - 2024.01 | **Session Speaker**, kprintf Conference, GDSC Konkuk
 - 2022.11 | **Session Speaker**, Apple Developer Academy @ POSTECH
