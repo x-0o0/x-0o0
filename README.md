@@ -67,11 +67,11 @@
 
 ### Talks
 - 2025.07 | **LT Speaker**, WWDC25 Recap for Swift Students, Apple Japan 🇯🇵
-- 2024.10 | **Session Speaker**, Apple Developer Academy @ POSTECH
-- 2024.01 | **Session Speaker**, kprintf Conference, GDSC Konkuk
-- 2022.11 | **Session Speaker**, Apple Developer Academy @ POSTECH
-- 2019.11 | **Session Speaker**, Let'Swift
-- 2019.10 | **Session Speaker**, SW Talk Busking, Software Education Festival @ Yeosu Expo (한국과학창의재단_KOFAC) [🔗](https://m.blog.naver.com/htiger31/221676998589?view=img_5)
+- 2024.10 | **Session Speaker**, Apple Developer Academy @ POSTECH 🇰🇷
+- 2024.01 | **Session Speaker**, kprintf Conference, GDSC Konkuk 🇰🇷
+- 2022.11 | **Session Speaker**, Apple Developer Academy @ POSTECH 🇰🇷
+- 2019.11 | **Session Speaker**, Let'Swift 🇰🇷
+- 2019.10 | **Session Speaker**, SW Talk Busking, Software Education Festival @ Yeosu Expo (한국과학창의재단_KOFAC) 🇰🇷 [🔗](https://m.blog.naver.com/htiger31/221676998589?view=img_5)
 
 <div align="center">
 
@@ -81,9 +81,9 @@
 
 ### B.S., Electrical and Electronic Engineering, Konkuk University
 (2015.03 ~ 2022.08)
-- 2019.07 | **International Scholarship**, State University of New York, Stony Brookㅤㅤ </br>
+- 2019.07 | **International Scholarship**, State University of New York, Stony Brook, NY, USAㅤㅤ </br>🇺🇸
 　　ㅤㅤㅤ- Global Summer Institute Certificate Program
-- 2019.10 | **Finalist - Top 8 (Global), Pioneer Tournament**ㅤㅤ </br>
+- 2019.10 | **Finalist - Top 8 (Global), Pioneer Tournament**ㅤㅤ </br> 🇺🇸
 　　“Guzo”, AR-based First Aid Education Platform - Leader, Developer
 - 2019.07 | **1st Place, AR Kiosk Idea Competition, Konkuk University**ㅤㅤ </br>
 　　Facial recognition and weather-based AR features Design
