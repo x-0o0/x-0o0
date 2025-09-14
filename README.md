@@ -68,7 +68,7 @@
   
 ### Communities
 - ~Present | **Organizer**, [Community for Swift Students 🇰🇷](https://wwdc.kr)
-- ~Present | **Organizer**, Koreawide Developer Conference(KWDC)
+- 2025.09 | **Organizer**, Koreawide Developer Conference(KWDC)
 - 2025.01 | **Organizer**, Winners' Day, WWDC Winners Korea
 - 2024.10 | **Organizer**, Koreawide Developer Conference (KWDC)
 - 2023.12 | **Organizer**, Winners' Night, WWDC Winners Korea
