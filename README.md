@@ -92,12 +92,12 @@
 
 ### B.S., Electrical and Electronic Engineering, Konkuk University
 (2015.03 ~ 2022.08)
-- 2019.07 | **International Scholarship**, State University of New York, Stony Brook, NY, USAㅤㅤ </br>🇺🇸
-　　ㅤㅤㅤ- Global Summer Institute Certificate Program
-- 2019.10 | **Finalist - Top 8 (Global), Pioneer Tournament**ㅤㅤ </br> 🇺🇸
-　　“Guzo”, AR-based First Aid Education Platform - Leader, Developer
+- 2019.07 | **International Scholarship**, State University of New York, Stony Brook, NY, USA 🇺🇸 </br>
+  - Global Summer Institute Certificate Program
+- 2019.10 | **Finalist - Top 8 (Global), Pioneer Tournament** 🇺🇸 </br>
+  - “Guzo”, AR-based First Aid Education Platform - Leader, Developer
 - 2019.07 | **1st Place, AR Kiosk Idea Competition, Konkuk University**ㅤㅤ </br>
-　　Facial recognition and weather-based AR features Design
+  - Facial recognition and weather-based AR features Design
 
 <div align="center">
 
