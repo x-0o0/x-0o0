@@ -77,6 +77,7 @@
 - 2021.10 | **Designer & iOS Developer**, [쿠링(ku-ring)]((https://github.com/ku-ring)) - Lead "쿠링 - 건국대학교 공지알리미" iOS app development (v1.0 ~ v2.0)
 
 ### Talks
+- 2025.08 | **Session Speaker**, Apple Developer Academy @ POSTECH 🇰🇷
 - 2025.07 | **LT Speaker**, WWDC25 Recap for Swift Students, Apple Japan 🇯🇵
 - 2024.10 | **Session Speaker**, Apple Developer Academy @ POSTECH 🇰🇷
 - 2024.01 | **Session Speaker**, kprintf Conference, GDSC Konkuk 🇰🇷
