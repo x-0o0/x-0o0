@@ -67,7 +67,7 @@
 - 2022.10 | **Mentor**, Swift Mentorship Program, Swift.org
   
 ### Communities
-- ~Present | **Organizer**, [Community for Swift Students 🇰🇷](https://wwdc.kr)
+- 2026.01 | **Lead Organizer**, Hello Swift Students, [Community for Swift Students 🇰🇷](https://wwdc.kr)
 - 2025.09 | **Organizer**, Koreawide Developer Conference(KWDC)
 - 2025.01 | **Organizer**, Winners' Day, WWDC Winners Korea
 - 2024.10 | **Organizer**, Koreawide Developer Conference (KWDC)
@@ -78,6 +78,7 @@
 
 ### Talks
 - 2026.01 | **LT Speaker**, Getting Started: From Ideas to Apps, Apple Developer Center (Swift Student Collective) 🇸🇬
+- 2026.01 | **LT Speaker**, Community Organizer Session, Apple Developer Center 🇸🇬
 - 2026.01 | **LT Speaker**, Swift Student Challenge に向けて準備しよう(東京), Apple Japan (Swift Students Community Japan) 🇯🇵
 - 2025.08 | **Session Speaker**, Apple Developer Academy @ POSTECH 🇰🇷
 - 2025.07 | **LT Speaker**, WWDC25 Recap for Swift Students, Apple Japan (Swift Students Community Japan) 🇯🇵
