@@ -47,7 +47,7 @@
     <td align="center" valign="top" width="50%">
       🇰🇷
       <br><img src="https://img.shields.io/badge/Community_for_Swift_Students_(CSS)-f5f5f5?style=for-the-badge&logo=swift&logoColor=black" alt="HMC"/>
-      <br><b>Organizer</b>
+      <br><b>Lead Organizer</b>
     </td>
   </tr>
 </table>
