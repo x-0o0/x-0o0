@@ -11,11 +11,15 @@
 
 <table>
   <tr valign="top">
-    <td align="center" width="50%">
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/Developer_Academy-000000?style=for-the-badge&logo=Apple&logoColor=white" alt="ada"/>
+      <br><b>Apple Developer Academy @ POSTECH</b>
+    </td>
+    <td align="center" width="33%">
       <img src="https://img.shields.io/badge/Hyundai-002C5E?style=for-the-badge&logo=hyundai&logoColor=white" alt="HMC"/>
       <br><b>현대자동차</b>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="33%">
       <img src="https://img.shields.io/badge/Sendbird-6210CC?style=for-the-badge" alt="HMC"/>
       <br><b>Sendbird</b>
     </td>
