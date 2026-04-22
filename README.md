@@ -81,6 +81,7 @@
 - 2021.10 | **Designer & iOS Developer**, [쿠링(ku-ring)]((https://github.com/ku-ring)) - Lead "쿠링 - 건국대학교 공지알리미" iOS app development (v1.0 ~ v2.0)
 
 ### Talks
+- 2026.04 | **Session Speaker**, #SwiftStudentsCafe: Crafting standout apps @ try!Swift Tokyo 🇯🇵
 - 2026.01 | **LT Speaker**, Getting Started: From Ideas to Apps, Apple Developer Center (Swift Student Collective) 🇸🇬
 - 2026.01 | **LT Speaker**, Community Organizer Session, Apple Developer Center 🇸🇬
 - 2026.01 | **LT Speaker**, Swift Student Challenge に向けて準備しよう(東京), Apple Japan (Swift Students Community Japan) 🇯🇵
