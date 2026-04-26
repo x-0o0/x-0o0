@@ -71,6 +71,7 @@
 - 2022.10 | **Mentor**, Swift Mentorship Program, Swift.org
   
 ### Communities
+- 2026.02 | **Lead Organizer**, Swift Students Cafe, [Community for Swift Students 🇰🇷](https://wwdc.kr)
 - 2026.01 | **Lead Organizer**, Hello Swift Students, [Community for Swift Students 🇰🇷](https://wwdc.kr)
 - 2025.09 | **Organizer**, Koreawide Developer Conference(KWDC)
 - 2025.01 | **Organizer**, Winners' Day, WWDC Winners Korea
