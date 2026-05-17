@@ -42,7 +42,7 @@ hello, I love Swift and founded [Swift Students Cafe](https://luma.com/ssccafe?e
     </td>
     <td align="center" width="33%">
       <img src="https://img.shields.io/badge/Pioneer_Tournament-ffe44b?style=for-the-badge" alt="pionner"/>
-      <br><b>Finalist</b>
+      <br><b>Finalist ('19)</b>
     </td>
   </tr>
 </table>
