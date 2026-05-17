@@ -2,6 +2,8 @@
   
 # Jaesung Lee
 
+hello, I love Swift and founded [Swift Students Cafe](https://luma.com/ssccafe?e=evt-0EhhGARCJiZbkLl) together with community leaders from Singapore and Japan.
+
 ### Apple Platform SWE
 
 [![Email](https://img.shields.io/badge/Email-168de2?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:chic0815@icloud.com)
