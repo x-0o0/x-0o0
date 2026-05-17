@@ -4,7 +4,7 @@
 
 hello, I love Swift and founded [Swift Students Cafe](https://luma.com/ssccafe?e=evt-0EhhGARCJiZbkLl) together with community leaders from Singapore and Japan.
 
-### Apple Platform SWE & Tech Educator
+### Apple Platform SWE & Tech Educator & Community Leader
 
 [![Email](https://img.shields.io/badge/Email-168de2?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:chic0815@icloud.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/x-0o0)
